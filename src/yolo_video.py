@@ -1,6 +1,5 @@
-import sys
 import argparse
-from yolo import YOLO, detect_video
+from src.yolo import YOLO, detect_video
 from PIL import Image
 from matplotlib import pyplot as plt
 import numpy as np
@@ -20,6 +19,7 @@ def detect_img(yolo):
             plt.imshow(np.asarray(r_image))
             plt.show()
     yolo.close_session()
+
 
 FLAGS = None
 

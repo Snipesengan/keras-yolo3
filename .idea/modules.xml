@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/keras-yolo3.iml" filepath="$PROJECT_DIR$/.idea/keras-yolo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AR10-001/snapshots/.idea/snapshots.iml" filepath="$PROJECT_DIR$/../AR10-001/snapshots/.idea/snapshots.iml" />
     </modules>
   </component>
 </project>
