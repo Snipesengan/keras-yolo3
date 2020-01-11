@@ -2,6 +2,8 @@ import sys
 import argparse
 from yolo import YOLO, detect_video
 from PIL import Image
+from matplotlib import pyplot as plt
+import numpy as np
 
 
 def detect_img(yolo):
@@ -14,7 +16,9 @@ def detect_img(yolo):
             continue
         else:
             r_image = yolo.detect_image(image)
-            r_image.show()
+            plt.figure()
+            plt.imshow(np.asarray(r_image))
+            plt.show()
     yolo.close_session()
 
 FLAGS = None
