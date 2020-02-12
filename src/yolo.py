@@ -7,6 +7,7 @@ import colorsys
 from timeit import default_timer as timer
 
 import numpy as np
+import cv2
 from keras import backend as K
 from keras.models import load_model
 from keras.layers import Input
@@ -20,13 +21,13 @@ from keras.utils import multi_gpu_model
 
 class YOLO(object):
     _defaults = {
-        "model_path": '../model_data/AR10-ep074-loss16.139-val_loss16.430.h5',
-        "anchors_path": '../model_data/yolo_anchors.txt',
-        "classes_path": '../model_data/AR10_classes.txt',
-        "score" : 0.3,
-        "iou" : 0.45,
-        "model_image_size" : (416, 416),
-        "gpu_num" : 1,
+            "model_path": 'model_data/AR10-ep074-loss16.139-val_loss16.430.h5',
+            "anchors_path": 'model_data/yolo_anchors.txt',
+            "classes_path": 'model_data/AR10_classes.txt',
+            "score": 0.3,
+            "iou": 0.45,
+            "model_image_size": (416, 416),
+            "gpu_num": 1,
     }
 
     @classmethod
@@ -37,8 +38,8 @@ class YOLO(object):
             return "Unrecognized attribute name '" + n + "'"
 
     def __init__(self, **kwargs):
-        self.__dict__.update(self._defaults) # set up default values
-        self.__dict__.update(kwargs) # and update with user overrides
+        self.__dict__.update(self._defaults)  # set up default values
+        self.__dict__.update(kwargs)  # and update with user overrides
         self.class_names = self._get_class()
         self.anchors = self._get_anchors()
         self.sess = K.get_session()
@@ -60,21 +61,26 @@ class YOLO(object):
 
     def generate(self):
         model_path = os.path.expanduser(self.model_path)
-        assert model_path.endswith('.h5'), 'Keras model or weights must be a .h5 file.'
+        assert model_path.endswith(
+            '.h5'), 'Keras model or weights must be a .h5 file.'
 
         # Load model, or construct model and load weights.
         num_anchors = len(self.anchors)
         num_classes = len(self.class_names)
-        is_tiny_version = num_anchors==6 # default setting
+        is_tiny_version = num_anchors == 6  # default setting
         try:
             self.yolo_model = load_model(model_path, compile=False)
         except:
-            self.yolo_model = tiny_yolo_body(Input(shape=(None,None,3)), num_anchors//2, num_classes) \
-                if is_tiny_version else yolo_body(Input(shape=(None,None,3)), num_anchors//3, num_classes)
-            self.yolo_model.load_weights(self.model_path) # make sure model, anchors and classes match
+            self.yolo_model = tiny_yolo_body(Input(shape=(None, None, 3)),
+                                             num_anchors // 2, num_classes) \
+                if is_tiny_version else yolo_body(Input(shape=(None, None, 3)),
+                                                  num_anchors // 3, num_classes)
+            self.yolo_model.load_weights(
+                self.model_path)  # make sure model, anchors and classes match
         else:
             assert self.yolo_model.layers[-1].output_shape[-1] == \
-                num_anchors/len(self.yolo_model.output) * (num_classes + 5), \
+                   num_anchors / len(self.yolo_model.output) * (
+                               num_classes + 5), \
                 'Mismatch between model and given anchor and class sizes'
 
         print('{} model, anchors, and classes loaded.'.format(model_path))
@@ -84,28 +90,36 @@ class YOLO(object):
                       for x in range(len(self.class_names))]
         self.colors = list(map(lambda x: colorsys.hsv_to_rgb(*x), hsv_tuples))
         self.colors = list(
-            map(lambda x: (int(x[0] * 255), int(x[1] * 255), int(x[2] * 255)),
-                self.colors))
+                map(lambda x: (
+                int(x[0] * 255), int(x[1] * 255), int(x[2] * 255)),
+                    self.colors))
         np.random.seed(10101)  # Fixed seed for consistent colors across runs.
-        np.random.shuffle(self.colors)  # Shuffle colors to decorrelate adjacent classes.
+        np.random.shuffle(
+            self.colors)  # Shuffle colors to decorrelate adjacent classes.
         np.random.seed(None)  # Reset seed to default.
 
         # Generate output tensor targets for filtered bounding boxes.
-        self.input_image_shape = K.placeholder(shape=(2, ))
-        if self.gpu_num>=2:
-            self.yolo_model = multi_gpu_model(self.yolo_model, gpus=self.gpu_num)
-        boxes, scores, classes = yolo_eval(self.yolo_model.output, self.anchors,
-                len(self.class_names), self.input_image_shape,
-                score_threshold=self.score, iou_threshold=self.iou)
+        self.input_image_shape = K.placeholder(shape=(2,))
+        if self.gpu_num >= 2:
+            self.yolo_model = multi_gpu_model(self.yolo_model,
+                                              gpus=self.gpu_num)
+        boxes, scores, classes = yolo_eval(self.yolo_model.output,
+                                           self.anchors,
+                                           len(self.class_names),
+                                           self.input_image_shape,
+                                           score_threshold=self.score,
+                                           iou_threshold=self.iou)
         return boxes, scores, classes
 
     def detect_image(self, image):
-        start = timer()
 
         if self.model_image_size != (None, None):
-            assert self.model_image_size[0]%32 == 0, 'Multiples of 32 required'
-            assert self.model_image_size[1]%32 == 0, 'Multiples of 32 required'
-            boxed_image = letterbox_image(image, tuple(reversed(self.model_image_size)))
+            assert self.model_image_size[
+                       0] % 32 == 0, 'Multiples of 32 required'
+            assert self.model_image_size[
+                       1] % 32 == 0, 'Multiples of 32 required'
+            boxed_image = letterbox_image(image, tuple(
+                reversed(self.model_image_size)))
         else:
             new_image_size = (image.width - (image.width % 32),
                               image.height - (image.height % 32))
@@ -117,17 +131,22 @@ class YOLO(object):
         image_data = np.expand_dims(image_data, 0)  # Add batch dimension.
 
         out_boxes, out_scores, out_classes = self.sess.run(
-            [self.boxes, self.scores, self.classes],
-            feed_dict={
-                self.yolo_model.input: image_data,
-                self.input_image_shape: [image.size[1], image.size[0]],
-                K.learning_phase(): 0
-            })
+                [self.boxes, self.scores, self.classes],
+                feed_dict={
+                        self.yolo_model.input: image_data,
+                        self.input_image_shape: [image.size[1], image.size[0]],
+                        K.learning_phase(): 0
+                })
 
+        return out_boxes, out_scores, out_classes
+
+    def annotate_image(self, image, out_boxes, out_scores, out_classes):
         print('Found {} boxes for {}'.format(len(out_boxes), 'img'))
 
-        font = ImageFont.truetype(font='../font/FiraMono-Medium.otf',
-                    size=np.floor(3e-2 * image.size[1] + 0.5).astype('int32'))
+        font = ImageFont.truetype(font='font/FiraMono-Medium.otf',
+                                  size=np.floor(
+                                      3e-2 * image.size[1] + 0.5).astype(
+                                      'int32'))
         thickness = (image.size[0] + image.size[1]) // 300
 
         for i, c in reversed(list(enumerate(out_classes))):
@@ -136,6 +155,7 @@ class YOLO(object):
             score = out_scores[i]
 
             label = '{} {:.2f}'.format(predicted_class, score)
+            label = f'{predicted_class}'
             draw = ImageDraw.Draw(image)
             label_size = draw.textsize(label, font)
 
@@ -154,33 +174,88 @@ class YOLO(object):
             # My kingdom for a good redistributable image drawing library.
             for i in range(thickness):
                 draw.rectangle(
-                    [left + i, top + i, right - i, bottom - i],
-                    outline=self.colors[c])
+                        [left + i, top + i, right - i, bottom - i],
+                        outline=self.colors[c])
             draw.rectangle(
-                [tuple(text_origin), tuple(text_origin + label_size)],
-                fill=self.colors[c])
+                    [tuple(text_origin), tuple(text_origin + label_size)],
+                    fill=self.colors[c])
             draw.text(text_origin, label, fill=(0, 0, 0), font=font)
             del draw
 
-        end = timer()
-        print(end - start)
         return image
 
     def close_session(self):
         self.sess.close()
 
+    def evaluate(self, validation_path, iou_thresh=0.5):
+
+        matches = {}
+        with open(os.path.abspath(validation_path), 'r') as fp:
+            lines = fp.readlines()
+
+        for line in [line.split(' ') for line in lines]:
+            source, annotations = line[0], line[1:]
+            n_objects = len(annotations)  # number of objects in the scene
+            image = Image.open(source)
+            out_boxes, out_scores, out_classes = self.detect_image(image)
+
+            for annotation in annotations:
+                data = annotation.split(',')
+                bb1 = tuple(map(int, data[:4]))
+                class_ = int(data[-1])
+
+                for i in range(out_boxes.shape[0]):
+                    if class_ == out_classes[i]:
+                        top, left, bottom, right = out_boxes[i,:]
+                        top = max(0, np.floor(top + 0.5).astype('int32'))
+                        left = max(0, np.floor(left + 0.5).astype('int32'))
+                        bottom = min(image.size[1], np.floor(bottom + 0.5).astype('int32'))
+                        right = min(image.size[0], np.floor(right + 0.5).astype('int32'))
+                        bb2 = (left, top, right, bottom)
+                        iou = _compute_iou(bb1, bb2)
+
+                        if iou > iou_thresh:
+                            if class_ in matches:
+                                matches[class_].append(iou)
+                            else:
+                                matches[class_] = [iou]
+
+            #  calculate the precision for each class
+            for k, v in matches.items():
+                tp = len(v)  # true positive
+                fp = max(0, out_boxes.shape[0] - tp)  # false positive
+                precision = tp/(tp + fp)  # precision
+
+
+def _compute_iou(groundtruth_box, detection_box):
+    g_xmin, g_ymin, g_xmax, g_ymax = groundtruth_box
+    d_xmin, d_ymin, d_xmax, d_ymax = detection_box
+
+    xa = max(g_xmin, d_xmin)
+    ya = max(g_ymin, d_ymin)
+    xb = min(g_xmax, d_xmax)
+    yb = min(g_ymax, d_ymax)
+
+    intersection = max(0, xb - xa + 1) * max(0, yb - ya + 1)
+
+    boxAArea = (g_xmax - g_xmin + 1) * (g_ymax - g_ymin + 1)
+    boxBArea = (d_xmax - d_xmin + 1) * (d_ymax - d_ymin + 1)
+
+    return intersection / float(boxAArea + boxBArea - intersection)
+
+
 def detect_video(yolo, video_path, output_path=""):
-    import cv2
     vid = cv2.VideoCapture(video_path)
     if not vid.isOpened():
         raise IOError("Couldn't open webcam or video")
-    video_FourCC    = int(vid.get(cv2.CAP_PROP_FOURCC))
-    video_fps       = vid.get(cv2.CAP_PROP_FPS)
-    video_size      = (int(vid.get(cv2.CAP_PROP_FRAME_WIDTH)),
-                        int(vid.get(cv2.CAP_PROP_FRAME_HEIGHT)))
+    video_FourCC = int(vid.get(cv2.CAP_PROP_FOURCC))
+    video_fps = vid.get(cv2.CAP_PROP_FPS)
+    video_size = (int(vid.get(cv2.CAP_PROP_FRAME_WIDTH)),
+                  int(vid.get(cv2.CAP_PROP_FRAME_HEIGHT)))
     isOutput = True if output_path != "" else False
     if isOutput:
-        print("!!! TYPE:", type(output_path), type(video_FourCC), type(video_fps), type(video_size))
+        print("!!! TYPE:", type(output_path), type(video_FourCC),
+              type(video_fps), type(video_size))
         out = cv2.VideoWriter(output_path, video_FourCC, video_fps, video_size)
     accum_time = 0
     curr_fps = 0
@@ -189,7 +264,7 @@ def detect_video(yolo, video_path, output_path=""):
     while True:
         return_value, frame = vid.read()
         image = Image.fromarray(frame)
-        image = yolo.detect_image(image)
+        image = yolo.annotate_image(image, *yolo.detect_image(image))
         result = np.asarray(image)
         curr_time = timer()
         exec_time = curr_time - prev_time
@@ -200,7 +275,8 @@ def detect_video(yolo, video_path, output_path=""):
             accum_time = accum_time - 1
             fps = "FPS: " + str(curr_fps)
             curr_fps = 0
-        cv2.putText(result, text=fps, org=(3, 15), fontFace=cv2.FONT_HERSHEY_SIMPLEX,
+        cv2.putText(result, text=fps, org=(3, 15),
+                    fontFace=cv2.FONT_HERSHEY_SIMPLEX,
                     fontScale=0.50, color=(255, 0, 0), thickness=2)
         cv2.namedWindow("result", cv2.WINDOW_NORMAL)
         cv2.imshow("result", result)
@@ -209,4 +285,3 @@ def detect_video(yolo, video_path, output_path=""):
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
     yolo.close_session()
-

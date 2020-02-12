@@ -1,0 +1,883 @@
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.28.15-12-snapshot.jpeg 711,1205,826,1361,0 969,1330,1116,1489,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.31.15-13-snapshot.jpeg 845,1266,985,1433,0 848,1038,976,1199,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.40.29-12-snapshot.jpeg 1160,1062,1311,1199,0 1511,1076,1644,1249,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.44.34-13-snapshot.jpeg 1740,670,1959,889,0 1712,1258,1899,1486,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.49.01-12-snapshot.jpeg 1146,1550,1306,1701,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.53.22-13-snapshot.jpeg 1334,1386,1484,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.56.08-12-snapshot.jpeg 1425,1144,1594,1336,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.57.19-13-snapshot.jpeg 1580,1304,1662,1469,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-06.58.14-12-snapshot.jpeg 1292,1491,1411,1600,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.00.56-13-snapshot.jpeg 968,1025,1197,1235,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.02.50-12-snapshot.jpeg 1037,994,1160,1144,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.07.30-13-snapshot.jpeg 1484,1162,1662,1395,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.14.50-12-snapshot.jpeg 1069,1381,1388,1619,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.17.24-13-snapshot.jpeg 982,1144,1274,1404,0 1498,1541,1776,1792,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.21.36-12-snapshot.jpeg 1073,957,1242,1135,0 1484,1185,1653,1354,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.24.56-13-snapshot.jpeg 717,1071,927,1276,0 1005,1025,1160,1208,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.33.32-12-snapshot.jpeg 991,1441,1156,1614,0 1133,1126,1265,1263,0 1511,236,1594,377,0 1525,332,1630,533,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.34.00-13-snapshot.jpeg 932,1309,1138,1519,0 1187,1144,1306,1313,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.34.25-12-snapshot.jpeg 1142,1130,1247,1245,0 1041,1555,1160,1678,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.37.30-13-snapshot.jpeg 1260,1642,1384,1746,0 1000,1696,1124,1810,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.38.28-12-snapshot.jpeg 1411,1140,1575,1345,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.41.35-13-snapshot.jpeg 800,1176,968,1340,0 1799,1527,1968,1692,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.48.49-13-snapshot.jpeg 1489,1103,1639,1281,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.55.08-12-snapshot.jpeg 1146,1368,1260,1505,0 1297,1381,1416,1550,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.55.27-13-snapshot.jpeg 1101,1404,1242,1546,0 1279,1427,1416,1605,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.55.58-12-snapshot.jpeg 1019,1422,1133,1541,0 1210,1386,1324,1518,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-07.58.42-13-snapshot.jpeg 987,1158,1156,1313,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.06.22-12-snapshot.jpeg 1375,1286,1548,1450,0 1119,1459,1293,1623,0 494,1550,658,1692,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.09.58-13-snapshot.jpeg 891,1354,1069,1555,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.18.50-12-snapshot.jpeg 1133,1450,1297,1569,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.24.05-13-snapshot.jpeg 886,1582,1041,1719,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.34.41-13-snapshot.jpeg 15,921,421,1318,0 585,692,1041,1231,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.45.25-13-snapshot.jpeg 563,1250,859,1560,0 822,1564,1073,1810,0 1671,1199,1931,1464,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.50.26-12-snapshot.jpeg 1083,1391,1315,1619,0 1539,1737,1872,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-08.58.48-13-snapshot.jpeg 1105,752,1425,1130,0 1210,218,1521,619,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-09.06.45-12-snapshot.jpeg 567,870,859,1231,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-09.11.50-13-snapshot.jpeg 1461,1532,1799,1801,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-09.17.06-12-snapshot.jpeg 873,1391,1124,1692,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-09.21.14-13-snapshot.jpeg 996,1263,1297,1660,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.16.33-12-snapshot.jpeg 699,1541,854,1737,0 808,1375,1080,1619,0 1537,1393,1722,1587,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.20.37-13-snapshot.jpeg 1187,1381,1343,1500,0 1178,948,1375,1130,0 2109,1468,2264,1637,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.31.39-13-snapshot.jpeg 982,697,1192,857,0 1315,647,1589,907,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.35.39-12-snapshot.jpeg 1712,1044,1886,1299,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.39.48-13-snapshot.jpeg 909,382,1101,592,0 1215,318,1411,501,0 1429,1167,1584,1363,0 1041,902,1210,1067,0 882,1381,1051,1573,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.44.37-12-snapshot.jpeg 1041,879,1224,1012,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.48.31-13-snapshot.jpeg 749,1354,955,1537,0 1069,852,1233,1021,0 1060,701,1279,889,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.52.30-12-snapshot.jpeg 1023,975,1165,1080,0 1963,1089,2169,1327,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.57.12-13-snapshot.jpeg 1347,1514,1548,1669,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.57.22-12-snapshot.jpeg 777,1427,982,1664,0 1238,948,1434,1108,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-10.58.22-13-snapshot.jpeg 936,1477,1078,1610,0 1124,1349,1270,1518,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.02.45-12-snapshot.jpeg 923,1140,1101,1340,0 1548,1299,1703,1500,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.05.19-13-snapshot.jpeg 786,1117,987,1318,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.11.39-12-snapshot.jpeg 1260,825,1525,1098,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.12.29-13-snapshot.jpeg 1329,802,1616,1140,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.12.48-12-snapshot.jpeg 1557,994,1744,1254,0 1,1505,184,1655,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.16.23-13-snapshot.jpeg 649,907,909,1203,0 1032,1281,1384,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.21.16-12-snapshot.jpeg 686,1258,877,1564,0 768,254,1023,528,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.27.33-13-snapshot.jpeg 1073,1276,1388,1564,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.31.14-12-snapshot.jpeg 1502,1386,1662,1541,0 2301,473,2456,688,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.35.29-13-snapshot.jpeg 768,1094,968,1295,0 777,1327,946,1491,0 827,1537,978,1705,0 1156,1619,1334,1815,0 184,1655,325,1815,0 334,1683,466,1842,0 193,1838,311,1929,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.40.59-12-snapshot.jpeg 1119,852,1411,1176,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.46.17-13-snapshot.jpeg 1133,1569,1402,1820,0 348,1642,599,1897,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.49.32-12-snapshot.jpeg 1379,1418,1671,1651,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-11.53.05-13-snapshot.jpeg 1201,1076,1434,1276,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.06.56-12-snapshot.jpeg 663,1345,841,1523,0 1607,1003,1817,1217,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.10.55-13-snapshot.jpeg 713,980,946,1235,0 1470,1464,1694,1737,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.16.34-12-snapshot.jpeg 435,1172,763,1509,0 1671,1217,1954,1642,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.17.11-13-snapshot.jpeg 1443,1477,1945,1861,0 1,1249,594,1614,0 1,172,421,683,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.21.56-12-snapshot.jpeg 562,1254,759,1422,0 1972,1153,2118,1377,0 1680,1409,1877,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.44.31-12-snapshot.jpeg 868,1564,1046,1719,0 727,893,932,1112,0 1169,601,1306,806,0 1384,606,1516,797,0 275,971,462,1185,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.48.36-13-snapshot.jpeg 676,1281,932,1454,0 1498,1418,1726,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-12.54.29-13-snapshot.jpeg 827,1258,1005,1445,0 1169,1642,1352,1810,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-13.43.13-12-snapshot.jpeg 1133,1103,1283,1226,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-13.43.35-13-snapshot.jpeg 877,1313,1064,1491,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-13.43.38-12-snapshot.jpeg 914,1281,1078,1450,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-13.43.59-13-snapshot.jpeg 946,1190,1169,1368,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-13.52.26-12-snapshot.jpeg 1201,524,1425,761,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-13.55.38-13-snapshot.jpeg 722,1,982,241,0 503,1464,854,1815,0 1242,1724,1525,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-14.04.04-12-snapshot.jpeg 667,1062,841,1245,0 1626,1313,1781,1454,0 1023,332,1265,537,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-14.10.40-13-snapshot.jpeg 1220,1116,1315,1240,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-14.10.52-12-snapshot.jpeg 1183,957,1338,1098,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-14.11.50-13-snapshot.jpeg 1156,1071,1279,1217,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-14.26.28-12-snapshot.jpeg 526,1190,676,1345,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-14.37.04-13-snapshot.jpeg 489,1240,686,1418,0 1758,1208,1936,1372,0 1835,952,2032,1167,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-14.47.20-12-snapshot.jpeg 549,1194,695,1345,0 1589,1450,1749,1651,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.01.30-12-snapshot.jpeg 768,1496,927,1673,0 521,1080,658,1222,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.08.33-13-snapshot.jpeg 1425,1432,1635,1628,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.15.21-12-snapshot.jpeg 1689,1185,1826,1318,0 1963,1409,2041,1523,0 2150,711,2237,861,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.17.20-12-snapshot.jpeg 612,1427,863,1578,0 1169,1318,1388,1564,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.18.19-13-snapshot.jpeg 1137,1468,1338,1669,0 590,1217,740,1427,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.45.13-12-snapshot.jpeg 781,1190,932,1336,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.47.49-13-snapshot.jpeg 882,1486,1197,1728,0 544,1464,795,1715,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.48.54-12-snapshot.jpeg 1279,875,1480,1044,0 1356,1573,1534,1710,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.52.04-13-snapshot.jpeg 348,989,612,1231,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.56.50-12-snapshot.jpeg 97,1692,544,1945,0 1329,1546,1653,1806,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.57.07-13-snapshot.jpeg 1320,1395,1607,1605,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.57.16-12-snapshot.jpeg 1201,1760,1388,1929,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-15.59.35-13-snapshot.jpeg 1534,1445,1799,1737,0 508,998,795,1245,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.05.06-13-snapshot.jpeg 1689,1486,1922,1810,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.11.00-12-snapshot.jpeg 900,852,1110,1053,0 1407,1035,1603,1222,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.15.28-13-snapshot.jpeg 822,1464,1023,1610,0 1443,1368,1648,1569,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.22.21-12-snapshot.jpeg 740,1459,1046,1760,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.23.05-13-snapshot.jpeg 425,879,900,1308,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.23.24-12-snapshot.jpeg 909,1345,1105,1523,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.27.49-13-snapshot.jpeg 65,779,530,1391,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.29.28-12-snapshot.jpeg 613,994,873,1277,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.31.36-13-snapshot.jpeg 900,1176,1183,1482,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.06-16.39.18-13-snapshot.jpeg 873,1053,1302,1322,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-08.57.08-1-snapshot.jpeg 1105,1254,1452,1546,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-08.57.09-10-snapshot.jpeg 813,1390,1206,1756,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-08.58.31-12-snapshot.jpeg 836,989,1105,1263,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-09.01.06-13-snapshot.jpeg 1260,638,1575,916,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-09.08.09-12-snapshot.jpeg 973,396,1461,952,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-09.08.38-13-snapshot.jpeg 946,359,1416,838,0 2050,560,2552,1153,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-09.09.06-12-snapshot.jpeg 1032,683,1320,975,0 1726,1121,2045,1518,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-09.11.10-13-snapshot.jpeg 1635,597,2109,1290,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-10.05.41-12-snapshot.jpeg 1452,1140,1726,1400,0 1831,820,2178,1108,0 2228,898,2525,1226,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-10.11.08-12-snapshot.jpeg 836,1336,1128,1651,0 1165,1500,1438,1751,0 1178,857,1511,1126,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-10.16.45-13-snapshot.jpeg 676,743,1023,1080,0 1174,820,1470,1158,0 923,1140,1247,1459,0 1703,67,1867,372,0 1826,136,1991,469,0 1539,1,1685,172,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-10.36.44-13-snapshot.jpeg 877,1245,1087,1436,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-10.42.43-12-snapshot.jpeg 882,989,1055,1153,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-10.48.50-13-snapshot.jpeg 708,1340,936,1555,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-11.02.05-12-snapshot.jpeg 2169,834,2283,952,0 1365,1746,1466,1851,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-11.30.39-13-snapshot.jpeg 1466,1108,1671,1290,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.16.43-12-snapshot.jpeg 941,1578,1069,1692,0 1648,1591,1767,1696,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.20.37-13-snapshot.jpeg 65,1245,412,1514,0 1443,884,1749,1181,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.24.32-12-snapshot.jpeg 996,857,1119,998,0 33,624,129,743,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.28.20-13-snapshot.jpeg 562,1108,809,1363,0 868,720,1128,971,0 1365,1381,1667,1655,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.44.24-12-snapshot.jpeg 676,1582,895,1806,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.46.10-13-snapshot.jpeg 932,1167,1174,1422,0 1343,1181,1566,1432,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.53.20-12-snapshot.jpeg 1940,1441,2232,1715,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-12.53.44-13-snapshot.jpeg 1274,1450,1653,1911,0 1260,848,1484,1121,0 1904,1454,2246,1710,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-13.39.20-12-snapshot.jpeg 275,1655,521,1943,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-13.51.14-13-snapshot.jpeg 567,1281,781,1477,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-14.03.51-12-snapshot.jpeg 430,1377,590,1509,0 868,916,991,1048,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-14.14.52-13-snapshot.jpeg 352,962,590,1112,0 380,1067,553,1240,0 352,1185,581,1368,0 1758,1486,1931,1719,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-14.35.56-12-snapshot.jpeg 275,852,448,1007,0 863,136,955,231,0 973,1263,1092,1377,0 376,1085,485,1194,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-14.39.28-13-snapshot.jpeg 1137,1176,1283,1322,0 1192,1473,1352,1587,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-14.40.01-12-snapshot.jpeg 749,1067,895,1199,0 1206,1436,1338,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-14.41.04-13-snapshot.jpeg 448,966,672,1121,0 1174,1450,1329,1596,0 571,1267,781,1432,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.02.35-12-snapshot.jpeg 626,1226,809,1377,0 626,1669,809,1861,0 1566,1705,1721,1865,0 1534,1436,1726,1578,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.12.40-13-snapshot.jpeg 1233,1108,1384,1290,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.27.18-13-snapshot.jpeg 832,1085,973,1213,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.39.27-12-snapshot.jpeg 1147,948,1421,1199,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.43.14-13-snapshot.jpeg 1311,1386,1635,1646,0 1530,1121,1749,1359,0 1146,1103,1411,1395,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.47.01-12-snapshot.jpeg 1343,1514,1475,1614,0 1210,1007,1324,1126,0 845,1112,955,1231,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.50.09-13-snapshot.jpeg 964,1240,1233,1509,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.50.22-12-snapshot.jpeg 1128,1322,1379,1573,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-15.50.46-13-snapshot.jpeg 1155,1309,1411,1564,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.04.43-13-snapshot.jpeg 1292,1140,1566,1464,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.05.28-12-snapshot.jpeg 759,971,968,1158,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.13.46-13-snapshot.jpeg 594,1135,941,1454,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.17.50-12-snapshot.jpeg 1840,1673,1995,1820,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.20.45-13-snapshot.jpeg 1484,1363,1717,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.29.09-12-snapshot.jpeg 1101,962,1452,1267,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.32.40-13-snapshot.jpeg 1005,597,1397,943,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.37.19-12-snapshot.jpeg 1247,1345,1639,1692,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.07-16.40.54-13-snapshot.jpeg 585,1135,968,1473,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.10.58-1-snapshot.jpeg 1712,1308,2552,1934,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.10.59-10-snapshot.jpeg 1785,1359,2219,1756,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.19.35-12-snapshot.jpeg 759,1295,1019,1578,0 42,1190,161,1331,0 1,1057,79,1194,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.23.30-13-snapshot.jpeg 1521,1226,1685,1418,0 882,1126,1133,1363,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.31.32-12-snapshot.jpeg 1881,934,2191,1272,0 1388,816,1676,1167,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.40.42-13-snapshot.jpeg 1584,624,1863,957,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.42.56-12-snapshot.jpeg 1890,1203,2178,1427,0 2319,1085,2593,1363,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.45.49-13-snapshot.jpeg 690,1308,1078,1642,0 1329,774,1662,1117,0 2337,81,2547,327,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.53.24-12-snapshot.jpeg 964,1445,1156,1642,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.57.49-13-snapshot.jpeg 1484,1126,1680,1336,0 1124,231,1292,464,0 56,1432,257,1614,0 457,295,654,505,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-06.59.54-12-snapshot.jpeg 1425,1281,1580,1454,0 1133,90,1315,263,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.01.45-13-snapshot.jpeg 1315,1340,1534,1537,0 946,460,1169,706,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.02.57-12-snapshot.jpeg 1721,1623,1872,1769,0 1507,624,1626,743,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.05.32-13-snapshot.jpeg 608,1377,790,1596,0 1087,1359,1270,1546,0 1525,1094,1721,1290,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.06.23-12-snapshot.jpeg 1402,1286,1557,1436,0 1201,770,1420,989,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.11.12-13-snapshot.jpeg 1347,1276,1548,1482,0 845,428,1064,656,0 535,437,768,642,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.12.25-12-snapshot.jpeg 941,1409,1201,1600,0 2105,1715,2306,1879,0 2173,1578,2365,1797,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.13.02-13-snapshot.jpeg 320,697,553,875,0 991,1071,1183,1276,0 1119,1756,1324,1915,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.14.38-12-snapshot.jpeg 1534,1085,1726,1281,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.18.49-13-snapshot.jpeg 1128,889,1420,1067,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-07.31.55-13-snapshot.jpeg 658,1318,900,1550,0 800,921,1069,1153,0 1388,1632,1630,1879,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.00.28-12-snapshot.jpeg 489,962,686,1144,0 1306,1172,1493,1363,0 2374,866,2593,1062,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.04.12-13-snapshot.jpeg 786,1623,1023,1847,0 1434,1687,1694,1915,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.08.58-12-snapshot.jpeg 466,1427,649,1601,0 1530,1286,1717,1468,0 1699,1381,1849,1555,0 859,1426,1050,1575,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.12.48-13-snapshot.jpeg 1069,1231,1315,1450,0 1448,1240,1671,1427,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.18.59-12-snapshot.jpeg 959,861,1416,1190,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.19.17-13-snapshot.jpeg 1156,898,1534,1185,0 1475,1044,1817,1345,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.19.54-12-snapshot.jpeg 1078,925,1448,1208,0 1758,1195,2082,1446,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.24.47-13-snapshot.jpeg 206,788,585,1158,0 996,1140,1343,1486,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.36.16-12-snapshot.jpeg 1676,1176,1886,1518,0 1607,44,1854,318,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.38.23-13-snapshot.jpeg 562,907,854,1185,0 955,1,1197,245,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.42.41-12-snapshot.jpeg 389,1149,690,1413,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.46.16-13-snapshot.jpeg 1233,1181,1534,1569,0 28,1742,343,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-08.56.17-13-snapshot.jpeg 644,921,941,1235,0 932,1121,1242,1418,0 1288,350,1553,715,0 1972,1030,2228,1363,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-09.03.00-13-snapshot.jpeg 466,879,836,1190,0 1653,1172,1995,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-09.07.15-12-snapshot.jpeg 873,1295,1105,1587,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-09.17.05-13-snapshot.jpeg 873,1007,1124,1304,0 1270,1025,1580,1318,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-09.20.28-12-snapshot.jpeg 480,1167,708,1377,0 1,642,234,852,0 1,510,234,692,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-09.31.08-12-snapshot.jpeg 1343,1477,1566,1715,0 1507,1404,1703,1660,0 695,1651,1032,1938,0 489,1746,740,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-09.34.18-13-snapshot.jpeg 553,1062,841,1377,0 1543,1071,1986,1646,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-09.43.58-13-snapshot.jpeg 558,656,859,980,0 1749,1144,2027,1523,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-10.35.02-12-snapshot.jpeg 1580,1409,1799,1655,0 462,1222,768,1482,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-10.38.39-13-snapshot.jpeg 936,1349,1206,1596,0 1274,1413,1553,1724,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-10.44.44-12-snapshot.jpeg 658,1203,845,1409,0 1073,1377,1242,1523,0 640,857,836,1044,0 2150,131,2337,318,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-10.53.39-13-snapshot.jpeg 1306,1290,1502,1514,0 936,930,1178,1130,0 822,1231,987,1395,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-10.58.36-12-snapshot.jpeg 1174,994,1361,1181,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.02.02-13-snapshot.jpeg 635,811,1005,1144,0 2219,163,2520,478,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.06.18-12-snapshot.jpeg 1420,1130,1612,1345,0 1835,633,2013,811,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.06.37-13-snapshot.jpeg 1804,902,2055,1098,0 1073,1185,1256,1391,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.10.06-13-snapshot.jpeg 1201,1359,1383,1550,0 1493,1331,1694,1509,0 1461,1591,1616,1765,0 1155,1103,1352,1277,0 978,1149,1119,1295,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.13.42-12-snapshot.jpeg 1397,1203,1589,1422,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.17.15-13-snapshot.jpeg 1073,1158,1247,1286,0 1416,1254,1571,1422,0 777,1331,978,1468,0 781,1162,973,1354,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.26.26-12-snapshot.jpeg 749,1030,900,1153,0 1886,1167,2036,1340,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.30.19-13-snapshot.jpeg 1110,1359,1288,1600,0 1219,806,1420,1053,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.30.24-12-snapshot.jpeg 1178,688,1379,925,0 1156,1286,1365,1527,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.38.00-12-snapshot.jpeg 968,1286,1156,1473,0 599,994,850,1231,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.53.19-12-snapshot.jpeg 1215,1427,1484,1701,0 1603,1190,1822,1418,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.53.58-13-snapshot.jpeg 512,1067,800,1299,0 1288,1482,1507,1696,0 1703,1221,1863,1431,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-11.58.06-12-snapshot.jpeg 498,1126,759,1354,0 1676,1053,1904,1272,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-12.02.24-13-snapshot.jpeg 1247,1340,1457,1582,0 1083,743,1288,952,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-12.12.47-12-snapshot.jpeg 1379,1404,1525,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-12.15.02-13-snapshot.jpeg 1365,1432,1603,1642,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-12.32.46-12-snapshot.jpeg 1566,1240,1694,1345,0 1484,1482,1616,1600,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-12.34.32-13-snapshot.jpeg 991,1331,1160,1505,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.09.11-12-snapshot.jpeg 672,843,1059,1194,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.10.25-13-snapshot.jpeg 800,907,1142,1213,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.14.13-13-snapshot.jpeg 822,1153,1142,1454,0 1352,1094,1635,1400,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.22.17-13-snapshot.jpeg 1292,1263,1475,1486,0 2132,1112,2420,1363,0 663,1098,854,1272,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.29.27-12-snapshot.jpeg 1014,884,1224,1098,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.30.15-12-snapshot.jpeg 973,921,1128,1140,0 2242,286,2497,569,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.36.27-12-snapshot.jpeg 1283,1564,1452,1719,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.40.09-13-snapshot.jpeg 1233,1053,1475,1263,0 2315,1144,2579,1395,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.42.34-12-snapshot.jpeg 2077,1226,2333,1413,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.46.01-13-snapshot.jpeg 804,1304,1010,1518,0 1142,875,1324,1048,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.48.07-12-snapshot.jpeg 1416,1172,1539,1340,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.51.54-13-snapshot.jpeg 1,1664,156,1924,0 1197,811,1397,1021,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-13.55.50-12-snapshot.jpeg 1187,934,1466,1181,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.00.17-13-snapshot.jpeg 1069,606,1425,939,0 1648,1715,2064,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.05.54-12-snapshot.jpeg 918,1276,1233,1605,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.10.25-13-snapshot.jpeg 1265,1016,1539,1354,0 1744,1149,2036,1413,0 161,126,430,450,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.17.59-13-snapshot.jpeg 1846,1675,1903,1735,0 1869,1626,1950,1685,0 1894,1680,1962,1741,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.18.02-12-snapshot.jpeg 1343,1327,1489,1505,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.18.52-13-snapshot.jpeg 1133,1057,1434,1327,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.25.34-12-snapshot.jpeg 1242,930,1553,1208,0 854,1276,1110,1696,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.28.55-13-snapshot.jpeg 886,829,1288,1213,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.34.18-12-snapshot.jpeg 1060,1541,1393,1833,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.40.01-13-snapshot.jpeg 1726,857,1995,1235,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.48.08-13-snapshot.jpeg 845,1258,1046,1473,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.49.11-12-snapshot.jpeg 1219,1003,1388,1181,0 1005,396,1210,601,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.49.56-13-snapshot.jpeg 1393,1322,1584,1523,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-14.53.04-13-snapshot.jpeg 1114,1454,1311,1692,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.00.47-12-snapshot.jpeg 1096,733,1480,1117,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.04.34-13-snapshot.jpeg 1256,574,1584,898,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.13.51-13-snapshot.jpeg 841,1235,1160,1573,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.21.30-12-snapshot.jpeg 955,1062,1137,1226,0 1133,1564,1270,1710,0 1260,1527,1402,1664,0 1073,104,1183,268,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.24.50-13-snapshot.jpeg 1251,1454,1480,1664,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.28.11-12-snapshot.jpeg 1648,866,1808,1030,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.30.01-13-snapshot.jpeg 1553,1687,1740,1924,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.08-15.34.37-13-snapshot.jpeg 804,1172,1037,1368,0 1302,1263,1470,1468,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.16.51-13-snapshot.jpeg 832,1409,1023,1642,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.22.01-13-snapshot.jpeg 1000,1213,1151,1404,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.24.07-12-snapshot.jpeg 882,1240,1078,1418,0 494,743,658,911,0 1749,692,1895,889,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.25.10-13-snapshot.jpeg 1288,948,1470,1140,0 1,697,197,893,0 1,551,165,738,0 1940,574,2169,765,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.25.30-12-snapshot.jpeg 763,784,918,1007,0 2036,1404,2169,1559,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.26.36-13-snapshot.jpeg 1064,1240,1302,1441,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.27.46-12-snapshot.jpeg 517,1135,717,1322,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.29.46-13-snapshot.jpeg 909,1194,1110,1381,0 1384,314,1516,510,0 1493,327,1658,528,0 1740,227,1908,391,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.30.39-12-snapshot.jpeg 188,1290,403,1496,0 60,1669,293,1861,0 1420,204,1548,373,0 1851,875,1971,1002,0 1916,965,2037,1109,0 2017,1132,2201,1287,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.33.23-13-snapshot.jpeg 731,1167,987,1450,0 161,866,384,1044,0 28,738,256,998,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.53.52-12-snapshot.jpeg 1338,1295,1676,1518,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-06.59.10-13-snapshot.jpeg 1607,852,1963,1190,0 1128,1619,1411,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.02.26-12-snapshot.jpeg 1064,1158,1283,1441,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.03.36-13-snapshot.jpeg 1028,1057,1361,1368,0 1562,925,1845,1176,0 1416,1445,1762,1783,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.05.07-12-snapshot.jpeg 941,1208,1242,1473,0 1379,1381,1676,1687,0 1014,1477,1292,1705,0 1096,592,1480,893,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.05.30-13-snapshot.jpeg 1087,1199,1302,1527,0 1480,1336,1767,1655,0 1192,1550,1466,1810,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.05.41-12-snapshot.jpeg 1562,1304,1817,1537,0 1334,1441,1562,1710,0 868,633,1087,952,0 2023,1053,2324,1327,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.06.36-13-snapshot.jpeg 717,907,1014,1235,0 1160,1240,1511,1500,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.08.37-12-snapshot.jpeg 1219,195,1420,405,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.16.33-13-snapshot.jpeg 599,1199,850,1436,0 1676,1546,1794,1673,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.47.31-13-snapshot.jpeg 804,1308,1041,1559,0 1566,1158,1822,1395,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.49.09-12-snapshot.jpeg 1356,1409,1653,1683,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-07.53.55-13-snapshot.jpeg 768,1286,1174,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-08.01.35-13-snapshot.jpeg 1101,1295,1338,1491,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-08.10.09-12-snapshot.jpeg 1397,994,1667,1267,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-08.12.40-13-snapshot.jpeg 786,743,1142,1089,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-08.32.13-12-snapshot.jpeg 1438,1194,1607,1359,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-08.34.15-13-snapshot.jpeg 1101,1048,1356,1281,0 1151,1422,1356,1628,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-08.54.15-13-snapshot.jpeg 617,1267,927,1605,0 1434,1564,1762,1874,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-08.59.26-12-snapshot.jpeg 759,930,964,1135,0 1370,1076,1571,1290,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-09.02.26-13-snapshot.jpeg 576,1144,886,1436,0 845,852,1133,1194,0 1320,784,1635,1126,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.09-09.08.15-13-snapshot.jpeg 649,1249,978,1527,0 1434,1062,1767,1404,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.20.26-12-snapshot.jpeg 1625,1514,1712,1578,0 1652,1438,1752,1509,0 1968,1048,2068,1176,0 2223,957,2333,1103,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.23.35-13-snapshot.jpeg 1023,1331,1229,1564,0 1293,1162,1548,1363,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.27.16-12-snapshot.jpeg 863,1354,950,1432,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.31.05-13-snapshot.jpeg 1005,1094,1210,1267,0 1256,1153,1452,1400,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.38.15-13-snapshot.jpeg 923,1336,1128,1527,0 1429,1263,1626,1477,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.44.05-12-snapshot.jpeg 1069,989,1283,1213,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.49.48-13-snapshot.jpeg 1575,1272,1762,1432,0 850,1359,1073,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.55.18-12-snapshot.jpeg 1037,879,1156,1016,0 1448,1263,1621,1395,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-06.59.33-13-snapshot.jpeg 863,1057,1087,1249,0 1448,1445,1626,1637,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-07.10.05-13-snapshot.jpeg 941,1286,1151,1468,0 1151,1409,1329,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-07.40.51-12-snapshot.jpeg 841,1213,1028,1391,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-07.44.42-13-snapshot.jpeg 790,1052,1219,1459,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-07.48.37-12-snapshot.jpeg 193,1080,485,1327,0 1963,1108,2269,1418,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-07.49.54-13-snapshot.jpeg 425,994,836,1359,0 1712,1386,2086,1797,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.17.42-12-snapshot.jpeg 1096,1349,1393,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.18.18-13-snapshot.jpeg 466,893,681,1107,0 60,1354,225,1500,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.18.19-12-snapshot.jpeg 88,1372,247,1527,0 663,1025,795,1185,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.22.23-13-snapshot.jpeg 1384,1162,1712,1500,0 850,1299,1119,1505,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.28.37-12-snapshot.jpeg 1096,1231,1365,1509,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.34.08-13-snapshot.jpeg 654,1153,1014,1432,0 1183,1381,1448,1701,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.46.29-13-snapshot.jpeg 832,1245,991,1427,0 1320,606,1516,816,0 1845,615,2032,761,0 1365,1610,1580,1815,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.48.00-12-snapshot.jpeg 905,1295,1096,1518,0 1703,1669,1831,1838,0 1338,1331,1498,1509,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.48.24-13-snapshot.jpeg 1438,1240,1653,1432,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.50.52-13-snapshot.jpeg 1206,1555,1365,1746,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.50.54-12-snapshot.jpeg 1288,1404,1493,1628,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-08.51.38-13-snapshot.jpeg 1165,1509,1384,1719,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.03.53-12-snapshot.jpeg 1014,1071,1206,1249,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.10.41-13-snapshot.jpeg 188,893,375,1076,0 1028,1076,1242,1276,0 1434,1400,1635,1587,0 1904,920,2109,1144,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.18.41-12-snapshot.jpeg 882,1395,1096,1600,0 749,962,991,1208,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.22.48-13-snapshot.jpeg 1329,1167,1484,1381,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.24.42-12-snapshot.jpeg 1388,1226,1521,1409,0 2420,870,2593,1089,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.26.30-13-snapshot.jpeg 1525,1108,1694,1313,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.31.04-13-snapshot.jpeg 909,1213,1110,1427,0 1338,1290,1521,1500,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.35.26-12-snapshot.jpeg 1119,1523,1315,1746,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.40.07-13-snapshot.jpeg 1475,1254,1671,1473,0 790,1532,996,1733,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.42.33-12-snapshot.jpeg 1247,1605,1484,1788,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.47.02-13-snapshot.jpeg 936,980,1073,1149,0 1320,1308,1498,1500,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.51.08-12-snapshot.jpeg 1553,1276,1735,1477,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-09.59.08-12-snapshot.jpeg 1183,1600,1375,1783,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.03.09-13-snapshot.jpeg 955,1345,1183,1555,0 996,1057,1210,1281,0 1484,1354,1662,1559,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.10.26-12-snapshot.jpeg 717,1299,914,1500,0 927,1404,1092,1619,0 1110,1473,1283,1632,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.16.54-13-snapshot.jpeg 1055,1304,1283,1482,0 1598,1140,1813,1345,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.21.57-12-snapshot.jpeg 1105,1057,1288,1235,0 466,797,631,984,0 1,1149,161,1349,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.26.57-13-snapshot.jpeg 1658,1016,1822,1267,0 1215,1135,1393,1318,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.49.14-12-snapshot.jpeg 1425,939,1731,1208,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.54.36-13-snapshot.jpeg 1069,1418,1320,1719,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-10.58.33-12-snapshot.jpeg 1543,1445,1804,1715,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.02.51-13-snapshot.jpeg 978,1500,1347,1760,0 955,1025,1315,1363,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.08.07-12-snapshot.jpeg 941,1354,1306,1687,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.08.25-13-snapshot.jpeg 1000,1203,1260,1573,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.08.48-12-snapshot.jpeg 1407,1459,1740,1806,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.15.45-13-snapshot.jpeg 964,957,1270,1290,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.25.16-13-snapshot.jpeg 1197,1117,1644,1486,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.35.51-12-snapshot.jpeg 325,1541,494,1715,0 1470,1226,1594,1349,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.41.49-13-snapshot.jpeg 813,952,1073,1149,0 476,984,681,1140,0 1448,1276,1644,1537,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-11.55.44-12-snapshot.jpeg 1187,957,1489,1281,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-12.00.10-13-snapshot.jpeg 932,1117,1110,1327,0 1073,1213,1297,1422,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-12.06.22-12-snapshot.jpeg 1187,1080,1425,1263,0 1731,1422,1877,1578,0 1580,1441,1781,1628,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-12.10.01-13-snapshot.jpeg 1038,1116,1223,1315,0 1269,1269,1445,1467,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-12.20.25-12-snapshot.jpeg 1000,1062,1215,1281,0 272,248,494,470,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-12.25.35-13-snapshot.jpeg 1142,1345,1402,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-12.40.22-13-snapshot.jpeg 1101,1098,1365,1340,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-13.36.53-12-snapshot.jpeg 635,1386,873,1605,0 681,1071,859,1267,0 731,902,936,1085,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-13.41.27-13-snapshot.jpeg 836,1523,1060,1728,0 1416,1500,1594,1724,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-13.46.02-12-snapshot.jpeg 590,1162,850,1391,0 850,1422,1037,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-13.50.04-13-snapshot.jpeg 946,1445,1151,1628,0 667,1249,895,1486,0 1644,1349,1863,1578,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.13.13-12-snapshot.jpeg 804,1213,987,1418,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.16.07-13-snapshot.jpeg 932,1112,1133,1331,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.30.39-12-snapshot.jpeg 193,1276,503,1505,0 717,1267,936,1486,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.34.12-13-snapshot.jpeg 932,1140,1215,1413,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.39.18-12-snapshot.jpeg 384,1194,690,1473,0 581,1468,818,1696,0 1010,816,1247,1044,0 1151,957,1379,1226,0 2141,1664,2406,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.42.35-13-snapshot.jpeg 832,939,1133,1327,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.46.14-12-snapshot.jpeg 238,1144,549,1404,0 1881,1454,2251,1710,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.47.17-13-snapshot.jpeg 489,902,832,1254,0 1744,1044,2114,1377,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.51.16-12-snapshot.jpeg 512,1103,813,1454,0 1087,1349,1388,1683,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-14.58.43-13-snapshot.jpeg 1283,875,1571,1176,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-15.40.53-12-snapshot.jpeg 1566,1340,1772,1550,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-15.45.38-13-snapshot.jpeg 686,1094,918,1340,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-15.50.21-12-snapshot.jpeg 1032,1363,1183,1555,0 1315,1404,1493,1600,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-15.53.27-13-snapshot.jpeg 1251,1267,1411,1496,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-16.06.32-12-snapshot.jpeg 1210,857,1438,1144,0 1247,172,1534,496,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-16.06.56-13-snapshot.jpeg 1352,852,1580,1067,0 768,1039,1046,1245,0 868,1267,1187,1518,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-16.07.21-12-snapshot.jpeg 585,90,790,318,0 1009,811,1269,1021,0 1210,957,1375,1153,0 927,1349,1133,1587,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-16.09.03-13-snapshot.jpeg 667,1286,977,1637,0 1233,1245,1489,1559,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-16.12.17-13-snapshot.jpeg 790,1012,1019,1258,0 1306,628,1562,884,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.11-16.16.45-13-snapshot.jpeg 1407,1199,1648,1391,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-06.27.40-13-snapshot.jpeg 1092,1363,1320,1550,0 891,1413,1101,1573,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.00.39-12-snapshot.jpeg 786,1582,973,1760,0 1233,1322,1434,1473,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.04.12-12-snapshot.jpeg 1092,1245,1370,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.04.41-13-snapshot.jpeg 1379,1153,1635,1546,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.12.29-12-snapshot.jpeg 777,1459,964,1678,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.21.26-13-snapshot.jpeg 60,980,558,1322,0 845,1190,1010,1386,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.29.16-12-snapshot.jpeg 1288,1048,1543,1299,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.36.07-13-snapshot.jpeg 1470,952,1676,1167,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.51.46-12-snapshot.jpeg 841,1281,978,1418,0 293,1208,416,1308,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-07.53.53-13-snapshot.jpeg 1251,998,1470,1249,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.00.29-12-snapshot.jpeg 946,1021,1206,1226,0 1260,1477,1493,1642,0 348,1436,539,1632,0 152,1701,371,1883,0 28,314,225,473,0 2401,679,2588,879,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.00.47-13-snapshot.jpeg 1028,1044,1329,1240,0 1073,1327,1338,1500,0 266,1491,512,1687,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.03.05-13-snapshot.jpeg 1156,957,1365,1213,0 1311,1354,1498,1614,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.16.06-13-snapshot.jpeg 1429,1203,1616,1391,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.25.35-13-snapshot.jpeg 713,1249,1105,1600,0 1712,975,2068,1386,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.43.22-12-snapshot.jpeg 594,1381,886,1669,0 1425,1089,1712,1372,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.45.43-13-snapshot.jpeg 1037,770,1384,1117,0 1092,1258,1489,1628,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.49.21-12-snapshot.jpeg 1160,1413,1470,1724,0 1762,1199,2086,1500,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-08.51.19-13-snapshot.jpeg 813,1062,1169,1349,0 1407,998,1712,1354,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.00.13-12-snapshot.jpeg 1092,934,1302,1126,0 1475,838,1712,1089,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.02.35-13-snapshot.jpeg 1060,738,1411,1140,0 617,1514,996,1856,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.06.25-12-snapshot.jpeg 1516,1823,1586,1880,0 1537,1742,1613,1809,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.07.27-13-snapshot.jpeg 1324,1555,1443,1678,0 1989,1114,2066,1185,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.07.30-12-snapshot.jpeg 2056,1090,2148,1197,0 1051,1451,1174,1529,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.08.07-13-snapshot.jpeg 644,1062,964,1331,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.11.47-12-snapshot.jpeg 626,720,936,1067,0 1425,980,1689,1254,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.12.53-13-snapshot.jpeg 781,1290,1174,1614,0 1219,952,1553,1267,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.13.37-12-snapshot.jpeg 1105,1377,1388,1696,0 631,1441,900,1742,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.16.17-13-snapshot.jpeg 923,1532,1201,1806,0 1347,1505,1598,1792,0 1352,647,1658,962,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.19.52-12-snapshot.jpeg 1206,802,1434,1103,0 968,606,1197,848,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.23.46-13-snapshot.jpeg 339,1025,631,1304,0 590,984,973,1254,0 1740,1135,2082,1432,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.53.44-12-snapshot.jpeg 978,1331,1215,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-09.56.19-13-snapshot.jpeg 1201,1140,1397,1454,0 1904,1217,2191,1454,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.06.00-12-snapshot.jpeg 302,1555,548,1765,0 1420,1089,1616,1313,0 955,72,1119,236,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.10.41-13-snapshot.jpeg 763,1217,996,1523,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.19.40-12-snapshot.jpeg 47,1450,261,1605,0 1854,1569,2114,1801,0 1607,939,1817,1235,0 51,939,307,1199,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.23.33-13-snapshot.jpeg 617,1249,968,1655,0 1612,720,1877,1121,0 2004,1559,2410,1902,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.31.45-12-snapshot.jpeg 672,998,968,1258,0 1411,1664,1689,1929,0 1772,989,2027,1245,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.36.24-13-snapshot.jpeg 1055,1600,1370,1842,0 1493,1167,1826,1441,0 873,1181,1224,1445,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.41.34-12-snapshot.jpeg 1270,1012,1434,1199,0 1174,574,1260,683,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.43.20-13-snapshot.jpeg 56,560,206,724,0 794,1282,958,1399,0 959,1414,1121,1514,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.52.52-12-snapshot.jpeg 649,1089,927,1345,0 1393,994,1589,1304,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-10.58.49-13-snapshot.jpeg 745,857,1046,1094,0 1,1678,302,1865,0 1,1477,311,1646,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.05.35-12-snapshot.jpeg 1626,1130,1831,1404,0 1598,779,1826,1062,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.09.04-13-snapshot.jpeg 466,788,759,1117,0 1142,825,1397,1122,0 1489,1048,1721,1313,0 631,1331,950,1655,0 2260,300,2497,546,0 2242,460,2502,752,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.13.48-12-snapshot.jpeg 1229,925,1434,1249,0 1183,1678,1384,1920,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.18.01-13-snapshot.jpeg 535,802,795,1162,0 749,683,1069,1044,0 996,1322,1297,1664,0 1370,1454,1676,1820,0 1616,902,1945,1240,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.22.37-12-snapshot.jpeg 1562,1400,1895,1710,0 1667,1048,1936,1368,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.25.54-13-snapshot.jpeg 521,1140,941,1537,0 1543,1240,1895,1610,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.30.17-12-snapshot.jpeg 644,1290,927,1596,0 1466,1359,1758,1655,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.32.28-13-snapshot.jpeg 371,1048,653,1350,0 800,1459,1105,1705,0 1183,747,1434,1003,0 1219,943,1489,1162,0 1676,1276,1954,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.37.28-12-snapshot.jpeg 1484,1172,1653,1372,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.39.58-13-snapshot.jpeg 1507,1208,1721,1445,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.45.09-12-snapshot.jpeg 941,1112,1114,1286,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.45.29-13-snapshot.jpeg 964,1021,1142,1208,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.45.37-12-snapshot.jpeg 1010,834,1206,1053,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.50.02-13-snapshot.jpeg 963,1593,1096,1788,0 1063,1608,1258,1764,0 1292,1542,1516,1714,0 1165,209,1356,437,0 1407,683,1607,907,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.54.23-12-snapshot.jpeg 987,720,1156,930,0 1607,1012,1726,1231,0 1379,1391,1525,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-11.58.33-13-snapshot.jpeg 790,1172,955,1359,0 1192,1619,1388,1778,0 1352,1162,1557,1368,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.11.44-12-snapshot.jpeg 1315,1591,1498,1778,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.16.02-13-snapshot.jpeg 1064,925,1283,1121,0 1297,765,1498,998,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.18.26-12-snapshot.jpeg 1146,925,1302,1085,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.23.40-13-snapshot.jpeg 936,902,1142,1126,0 1407,1432,1603,1637,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.23.44-12-snapshot.jpeg 959,930,1133,1094,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.24.31-13-snapshot.jpeg 950,1117,1142,1345,0 982,747,1128,925,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.30.49-12-snapshot.jpeg 1201,1162,1343,1281,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.37.05-13-snapshot.jpeg 1092,984,1238,1149,0 1229,1331,1402,1500,0 371,615,530,774,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.48.06-12-snapshot.jpeg 1849,811,2150,1098,0 749,578,1041,916,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.49.05-13-snapshot.jpeg 453,1067,731,1349,0 1626,998,1945,1272,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.49.42-12-snapshot.jpeg 1735,834,2032,1117,0 165,524,435,820,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-12.57.20-13-snapshot.jpeg 512,1067,790,1372,0 1288,1377,1621,1847,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.01.49-12-snapshot.jpeg 1762,1555,2077,1829,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.08.21-13-snapshot.jpeg 686,1048,1119,1377,0 1384,1076,1717,1391,0 1881,628,2251,948,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.15.20-12-snapshot.jpeg 165,934,489,1217,0 1229,1035,1543,1286,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.16.37-13-snapshot.jpeg 644,743,1000,1098,0 1525,861,1908,1194,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.17.48-12-snapshot.jpeg 1,688,316,1003,0 2246,957,2593,1231,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.25.11-13-snapshot.jpeg 571,606,914,907,0 1607,934,2027,1340,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.39.18-12-snapshot.jpeg 1603,1140,1922,1349,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.41.55-13-snapshot.jpeg 640,902,1005,1240,0 1292,1130,1689,1422,0 1297,770,1639,1085,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-13.51.20-13-snapshot.jpeg 745,848,1019,1181,0 1388,838,1712,1231,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.17.28-13-snapshot.jpeg 854,624,1187,1012,0 2169,651,2593,1044,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.31.34-13-snapshot.jpeg 1370,1176,1589,1422,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.36.44-12-snapshot.jpeg 909,1308,1073,1523,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.39.31-13-snapshot.jpeg 594,1108,813,1377,0 599,816,845,1048,0 1297,1532,1516,1733,0 1712,971,1936,1249,0 2442,683,2593,916,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.42.05-12-snapshot.jpeg 1283,1372,1429,1496,0 1260,1751,1407,1915,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.45.25-13-snapshot.jpeg 996,1098,1229,1349,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.57.38-12-snapshot.jpeg 599,1245,781,1386,0 1977,1368,2091,1509,0 2013,1454,2159,1582,0 2169,1391,2296,1546,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-14.59.25-13-snapshot.jpeg 946,1067,1215,1372,0 1740,1249,1963,1482,0 1772,1057,1986,1327,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.04.08-12-snapshot.jpeg 1425,1258,1603,1422,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.06.02-13-snapshot.jpeg 772,1295,1010,1541,0 1283,1231,1480,1464,0 509,1081,691,1233,0 619,1031,788,1190,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.12.22-12-snapshot.jpeg 693,1365,787,1446,0 689,1269,820,1381,0 984,1229,1106,1349,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.14.58-13-snapshot.jpeg 1245,1642,1384,1763,0 1056,1441,1200,1549,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.14.59-12-snapshot.jpeg 1008,1396,1166,1516,0 1258,1382,1418,1556,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.15.17-13-snapshot.jpeg 919,1243,1075,1409,0 1305,1329,1435,1491,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.16.47-12-snapshot.jpeg 1219,1099,1347,1233,0 1126,1386,1336,1588,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.21.17-13-snapshot.jpeg 1172,1204,1403,1362,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.22.15-12-snapshot.jpeg 1027,1402,1096,1475,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.25.18-13-snapshot.jpeg 888,1201,1086,1416,0 1285,1349,1480,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.27.44-12-snapshot.jpeg 1057,1440,1196,1565,0 1213,1458,1384,1626,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.31.04-13-snapshot.jpeg 1229,1195,1384,1382,0 781,1190,1010,1422,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.31.47-12-snapshot.jpeg 1273,1441,1349,1515,0 1351,1252,1432,1331,0 1367,1036,1451,1134,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.35.24-13-snapshot.jpeg 1138,1331,1330,1512,0 1004,1113,1190,1309,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.42.43-12-snapshot.jpeg 789,1505,936,1632,0 735,1358,893,1482,0 1037,1052,1194,1191,0 1341,1467,1483,1616,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.47.12-13-snapshot.jpeg 779,1389,908,1499,0 1570,1218,1724,1358,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.56.00-12-snapshot.jpeg 1090,1515,1185,1621,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-15.59.05-13-snapshot.jpeg 936,1286,1461,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-16.05.13-12-snapshot.jpeg 1156,1108,1356,1295,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.12-16.05.37-13-snapshot.jpeg 1229,1254,1457,1559,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-06.22.50-12-snapshot.jpeg 1156,989,1361,1226,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-06.23.16-13-snapshot.jpeg 1160,1089,1393,1286,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-06.23.36-12-snapshot.jpeg 1466,1208,1712,1459,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-06.38.51-12-snapshot.jpeg 1178,980,1302,1130,0 1457,1349,1603,1527,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-06.43.12-13-snapshot.jpeg 1151,1067,1306,1276,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-06.49.05-12-snapshot.jpeg 950,528,1146,770,0 1365,1103,1584,1368,0 2140,1441,2236,1536,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-06.54.05-13-snapshot.jpeg 845,889,1128,1208,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.00.54-12-snapshot.jpeg 1126,1088,1274,1259,0 92,1204,249,1342,0 1,1338,152,1458,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.05.56-13-snapshot.jpeg 1163,1389,1352,1569,0 1163,1652,1375,1841,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.08.56-12-snapshot.jpeg 1588,1195,1786,1407,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.17.56-13-snapshot.jpeg 766,1190,988,1476,0 1523,1061,1750,1329,0 207,105,438,405,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.21.26-12-snapshot.jpeg 526,1172,678,1329,0 669,1079,858,1236,0 1579,1365,1740,1546,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.25.29-13-snapshot.jpeg 706,881,905,1061,0 775,1402,960,1592,0 1685,1583,1934,1804,0 1209,1167,1384,1356,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.32.39-13-snapshot.jpeg 558,834,757,1056,0 812,964,997,1144,0 660,1633,854,1836,0 1052,1130,1251,1333,0 577,1218,794,1416,0 2290,968,2484,1199,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.42.04-1-snapshot.jpeg 1089,1333,1339,1564,0 1034,848,1325,1236,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.42.06-10-snapshot.jpeg 1292,1185,1528,1412,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.44.14-12-snapshot.jpeg 1606,1564,1768,1758,0 692,1606,844,1772,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-07.53.31-13-snapshot.jpeg 632,1439,808,1638,0 895,581,1085,798,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.06.58-12-snapshot.jpeg 145,1281,268,1410,0 207,1096,325,1186,0 223,1020,344,1118,0 448,672,569,773,0 417,512,572,655,0 1583,1162,1750,1365,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.11.08-13-snapshot.jpeg 793,921,951,1105,0 1796,49,2008,276,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.16.25-12-snapshot.jpeg 1514,1185,1796,1421,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.18.48-12-snapshot.jpeg 1514,1509,1726,1689,0 609,511,780,696,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.19.49-13-snapshot.jpeg 1288,1375,1602,1666,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.24.10-12-snapshot.jpeg 1020,1472,1380,1749,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.32.01-13-snapshot.jpeg 521,1019,821,1287,0 775,604,1145,982,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.51.34-12-snapshot.jpeg 789,1347,1057,1587,0 1436,1499,1634,1703,0 1468,1329,1680,1513,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.53.07-13-snapshot.jpeg 1462,334,1669,565,0 1882,840,2061,1081,0 1304,1305,1459,1484,0 850,1123,1004,1274,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.54.01-12-snapshot.jpeg 1462,1023,1631,1198,0 1476,593,1645,779,0 932,920,1118,1099,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-08.56.17-13-snapshot.jpeg 1414,1102,1648,1340,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.10.52-12-snapshot.jpeg 805,930,973,1137,0 880,1254,1094,1446,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.14.17-13-snapshot.jpeg 1259,1071,1493,1243,0 984,913,1201,1130,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.17.18-12-snapshot.jpeg 646,1333,815,1494,0 939,1618,1135,1801,0 399,1646,609,1784,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.21.53-13-snapshot.jpeg 846,1102,1039,1250,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.26.38-12-snapshot.jpeg 1218,1123,1373,1343,0 729,1016,956,1223,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.32.50-13-snapshot.jpeg 1208,1243,1435,1422,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.41.15-1-snapshot.jpeg 1524,1346,1968,1801,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.41.16-10-snapshot.jpeg 1149,1236,1376,1436,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.47.57-12-snapshot.jpeg 905,1061,1111,1278,0 1565,1229,1796,1446,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.48.22-13-snapshot.jpeg 805,1140,1073,1357,0 1693,1198,1934,1484,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-09.57.13-13-snapshot.jpeg 1187,1160,1785,1757,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.01.14-12-snapshot.jpeg 1036,1002,1221,1191,0 315,1359,504,1551,0 549,1291,741,1452,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.01.55-13-snapshot.jpeg 367,1342,535,1493,0 950,1215,1177,1462,0 844,896,1026,1061,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.02.23-12-snapshot.jpeg 435,889,610,1043,0 387,1242,549,1407,0 1496,1473,1695,1634,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.09.27-13-snapshot.jpeg 679,1095,909,1342,0 1386,1091,1640,1328,0 1966,662,2183,899,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.15.49-12-snapshot.jpeg 1074,1394,1246,1565,0 71,1634,343,1768,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.20.10-13-snapshot.jpeg 1053,1081,1256,1277,0 1297,1067,1565,1370,0 1379,1363,1668,1538,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.25.48-12-snapshot.jpeg 906,923,1084,1085,0 1702,1486,1860,1658,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.26.41-13-snapshot.jpeg 1314,1067,1534,1273,0 1572,820,1760,1002,0 2224,937,2447,1170,0 1239,1421,1493,1627,0 2238,68,2413,247,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.27.55-12-snapshot.jpeg 607,827,813,1002,0 246,1194,483,1438,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.34.13-13-snapshot.jpeg 803,1033,1002,1188,0 1424,1105,1606,1294,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.40.35-12-snapshot.jpeg 1053,1006,1397,1342,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.45.20-13-snapshot.jpeg 964,1033,1263,1332,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.51.46-12-snapshot.jpeg 600,1242,820,1452,0 109,738,346,964,0 1,704,163,937,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.52.06-13-snapshot.jpeg 713,961,940,1153,0 144,591,356,776,0 329,473,504,697,0 10,408,236,614,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.52.18-12-snapshot.jpeg 912,934,1129,1177,0 119,944,343,1143,0 1,920,176,1136,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-15.56.32-13-snapshot.jpeg 899,1150,1105,1328,0 1510,1277,1726,1500,0 1537,1469,1716,1720,0 1517,408,1709,693,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.14.45-12-snapshot.jpeg 1373,1109,1510,1287,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.18.56-13-snapshot.jpeg 1280,1356,1493,1534,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.19.58-12-snapshot.jpeg 1331,483,1486,659,0 1809,24,1936,189,0 1918,7,2073,182,0 1945,96,2062,309,0 1183,662,1358,865,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.22.38-13-snapshot.jpeg 1095,1630,1280,1860,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.28.57-13-snapshot.jpeg 1036,1160,1232,1349,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.34.10-12-snapshot.jpeg 1335,1263,1503,1424,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.37.13-13-snapshot.jpeg 923,1555,1088,1771,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.37.21-12-snapshot.jpeg 892,1400,1084,1610,0 1235,1517,1424,1720,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.37.50-13-snapshot.jpeg 926,1345,1160,1627,0 1438,1384,1661,1610,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.38.42-12-snapshot.jpeg 950,1209,1159,1384,0 1376,1428,1596,1651,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.13-16.40.43-13-snapshot.jpeg 909,958,1153,1188,0 1198,1130,1442,1363,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-06.23.33-12-snapshot.jpeg 480,1256,810,1586,0 1857,964,2186,1239,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-06.27.32-13-snapshot.jpeg 1156,1253,1482,1685,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-06.31.48-12-snapshot.jpeg 700,1201,995,1517,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-06.32.13-13-snapshot.jpeg 624,1133,947,1442,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-06.32.47-12-snapshot.jpeg 1242,1332,1348,1469,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-06.35.06-13-snapshot.jpeg 741,1098,1040,1493,0 1609,1352,1960,1620,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.16.35-12-snapshot.jpeg 957,1390,1098,1521,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.20.33-13-snapshot.jpeg 1417,1146,1664,1435,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.27.57-12-snapshot.jpeg 964,1400,1125,1582,0 686,439,926,655,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.30.51-13-snapshot.jpeg 974,1119,1221,1328,0 899,1256,1101,1431,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.33.37-12-snapshot.jpeg 1132,1449,1286,1600,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.36.18-13-snapshot.jpeg 875,1586,1077,1727,0 1074,1236,1311,1356,0 861,1102,1081,1321,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.41.13-12-snapshot.jpeg 1400,1263,1596,1438,0 109,1205,322,1376,0 240,827,422,1019,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.44.28-13-snapshot.jpeg 1458,1435,1692,1713,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-07.50.32-12-snapshot.jpeg 373,1074,628,1270,0 1445,1775,1716,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.04.40-13-snapshot.jpeg 940,851,1225,1167,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.08.17-12-snapshot.jpeg 1544,1002,1699,1188,0 1221,1016,1414,1153,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.09.39-13-snapshot.jpeg 1479,1105,1668,1273,0 1462,1342,1637,1514,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.12.44-12-snapshot.jpeg 1177,1291,1534,1744,0 538,1153,885,1479,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.13.20-13-snapshot.jpeg 456,1232,789,1551,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.13.57-12-snapshot.jpeg 607,1074,967,1455,0 1221,1263,1548,1617,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.14.26-13-snapshot.jpeg 531,1191,882,1466,0 1249,1490,1510,1823,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.25.05-12-snapshot.jpeg 665,1448,803,1572,0 1362,1720,1489,1867,0 1472,1648,1596,1761,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.44.33-12-snapshot.jpeg 1498,1351,1563,1408,0 1587,1272,1659,1362,0 1681,1278,1754,1356,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-08.49.18-12-snapshot.jpeg 1125,1469,1252,1593,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-09.00.06-13-snapshot.jpeg 858,1479,981,1593,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-09.14.58-12-snapshot.jpeg 840,1167,1012,1321,0 1671,1098,1908,1280,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-09.18.05-13-snapshot.jpeg 1053,1260,1232,1424,0 1146,1081,1366,1225,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-09.26.26-13-snapshot.jpeg 1362,1201,1534,1383,0 943,1249,1149,1448,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-09.53.09-12-snapshot.jpeg 607,889,758,1050,0 700,813,851,968,0 1050,1534,1232,1696,0 676,1122,851,1304,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-09.56.56-13-snapshot.jpeg 1081,1239,1246,1373,0 761,1345,923,1527,0 1414,1521,1565,1703,0 1582,1473,1736,1617,0 1754,1445,1922,1613,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-09.59.02-12-snapshot.jpeg 878,1225,1005,1363,0 1362,1335,1548,1486,0 2114,728,2348,913,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.03.24-13-snapshot.jpeg 782,1212,978,1380,0 1383,1301,1548,1476,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.07.01-12-snapshot.jpeg 892,1146,1019,1280,0 1249,1462,1379,1634,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.11.23-13-snapshot.jpeg 1057,1143,1252,1280,0 1088,1404,1331,1624,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.18.52-12-snapshot.jpeg 322,1531,459,1648,0 940,1356,1077,1452,0 1263,1445,1390,1555,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.20.43-13-snapshot.jpeg 2052,1253,2207,1387,0 1984,741,2118,885,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.46.06-13-snapshot.jpeg 947,965,1136,1133,0 1321,1414,1493,1603,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.54.12-13-snapshot.jpeg 1273,1600,1451,1806,0 1685,309,1870,494,0 380,209,528,398,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-10.57.07-12-snapshot.jpeg 1565,58,1706,219,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.00.14-13-snapshot.jpeg 978,1483,1184,1733,0 937,1054,1122,1225,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.13.20-12-snapshot.jpeg 964,1421,1091,1548,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.16.05-13-snapshot.jpeg 2100,741,2238,879,0 1270,1253,1451,1411,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.24.36-12-snapshot.jpeg 799,1129,899,1256,0 1441,1291,1589,1442,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.27.28-13-snapshot.jpeg 1283,1047,1438,1208,0 1465,1054,1651,1236,0 1304,1448,1575,1648,0 727,940,926,1160,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.29.42-12-snapshot.jpeg 912,1421,1036,1551,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.32.44-13-snapshot.jpeg 1115,1332,1338,1507,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.39.13-12-snapshot.jpeg 1393,1424,1596,1651,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.44.43-13-snapshot.jpeg 748,1153,967,1373,0 1513,1569,1726,1802,0 1482,1112,1706,1335,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.51.03-12-snapshot.jpeg 1122,1091,1314,1260,0 888,429,1050,618,0 861,288,1033,456,0 628,1473,823,1624,0 1122,1407,1352,1569,0 1397,1260,1585,1421,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-11.54.22-13-snapshot.jpeg 823,1246,985,1387,0 1084,1061,1273,1242,0 1232,1291,1424,1459,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-12.05.58-12-snapshot.jpeg 665,1318,840,1500,0 1503,1215,1651,1352,0 830,1286,980,1389,0 1018,1284,1118,1436,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-12.28.53-13-snapshot.jpeg 1022,1276,1153,1454,0 1118,1248,1247,1367,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-12.36.30-12-snapshot.jpeg 823,1277,1015,1448,0 1514,1292,1632,1432,0 1112,1115,1263,1232,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-13.02.33-13-snapshot.jpeg 799,988,947,1095,0 1108,1263,1266,1414,0 1187,1342,1338,1477,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-13.19.12-12-snapshot.jpeg 1066,1369,1224,1514,0 1263,1261,1390,1413,0 1137,1119,1257,1275,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-13.21.11-13-snapshot.jpeg 1113,1276,1223,1402,0 1205,1254,1338,1365,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-13.41.44-12-snapshot.jpeg 1675,1315,1839,1497,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-13.48.08-13-snapshot.jpeg 1688,1586,1853,1764,0 1524,1586,1688,1720,0 696,1037,923,1232,0 1149,1229,1345,1404,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.00.02-13-snapshot.jpeg 1112,1459,1263,1627,0 1270,1431,1407,1569,0 1139,978,1300,1174,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.06.55-13-snapshot.jpeg 1314,1507,1486,1665,0 1221,1105,1379,1260,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.15.56-12-snapshot.jpeg 1136,1428,1338,1648,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.24.15-13-snapshot.jpeg 947,988,1256,1335,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.28.25-12-snapshot.jpeg 1167,1002,1348,1177,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.32.23-13-snapshot.jpeg 961,803,1173,1002,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.33.26-12-snapshot.jpeg 878,1376,1036,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.34.56-13-snapshot.jpeg 851,1112,1057,1373,0 1551,1301,1757,1486,0 1733,1150,1966,1404,0 1050,72,1259,305,0 6,209,236,398,0 20,614,212,786,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.35.52-12-snapshot.jpeg 1373,1658,1479,1778,0 1407,1524,1537,1651,0 1304,1352,1434,1448,0 1067,1078,1170,1201,0 930,882,1050,985,0 631,1411,755,1538,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.38.40-13-snapshot.jpeg 1297,1146,1469,1328,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-14.55.22-12-snapshot.jpeg 47,985,243,1115,0 1201,1538,1331,1679,0 1355,1435,1489,1593,0 1469,1696,1640,1860,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.01.59-13-snapshot.jpeg 631,1091,782,1297,0 765,1311,930,1459,0 957,1356,1132,1514,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.11.02-12-snapshot.jpeg 1270,1438,1462,1600,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.14.56-13-snapshot.jpeg 834,1071,1067,1335,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.31.12-12-snapshot.jpeg 1427,934,1747,1256,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.34.47-13-snapshot.jpeg 1324,367,1692,882,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.40.04-12-snapshot.jpeg 1476,1452,1812,1809,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.43.41-13-snapshot.jpeg 864,1551,1191,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.48.07-12-snapshot.jpeg 1015,1339,1184,1507,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.50.09-13-snapshot.jpeg 906,1074,1125,1308,0 1074,1524,1270,1720,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-15.58.55-12-snapshot.jpeg 1084,1600,1294,1785,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.04.18-13-snapshot.jpeg 1582,1102,1850,1459,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.04.37-12-snapshot.jpeg 1500,1140,1781,1438,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.05.02-13-snapshot.jpeg 1445,1253,1757,1527,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.11.27-12-snapshot.jpeg 861,1352,1163,1589,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.13.25-13-snapshot.jpeg 1191,1311,1510,1610,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.13.29-12-snapshot.jpeg 1173,1267,1462,1562,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.13.45-13-snapshot.jpeg 1125,1356,1455,1648,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.14.14-12-snapshot.jpeg 1287,1291,1513,1596,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.14.48-13-snapshot.jpeg 1204,1249,1448,1538,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.18.18-12-snapshot.jpeg 682,1349,868,1493,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.20.36-13-snapshot.jpeg 689,1095,909,1311,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.33.46-12-snapshot.jpeg 693,1366,895,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.14-16.36.03-13-snapshot.jpeg 1544,1500,1754,1706,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-06.51.23-12-snapshot.jpeg 1125,1548,1228,1654,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-06.51.44-12-snapshot.jpeg 459,889,562,1002,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-06.53.15-13-snapshot.jpeg 1335,937,1778,1287,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-07.07.15-12-snapshot.jpeg 483,1129,693,1363,0 1362,1771,1524,1943,0 652,1582,830,1792,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-07.16.16-13-snapshot.jpeg 912,209,1098,487,0 1403,1627,1596,1847,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-07.33.30-12-snapshot.jpeg 751,858,978,1150,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-07.37.22-13-snapshot.jpeg 761,1136,1053,1387,0 806,1448,1122,1720,0 1263,1579,1633,1826,0 1314,1019,1654,1383,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-07.47.57-13-snapshot.jpeg 971,1442,1187,1624,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-08.34.22-13-snapshot.jpeg 964,1002,1345,1442,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-08.49.08-12-snapshot.jpeg 989,1557,1054,1625,0 1049,1527,1117,1602,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-09.02.10-13-snapshot.jpeg 1197,1026,1390,1280,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-09.02.47-12-snapshot.jpeg 1153,1054,1304,1267,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-09.03.53-13-snapshot.jpeg 1129,1016,1331,1212,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-09.11.32-13-snapshot.jpeg 995,1236,1173,1414,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-09.26.57-12-snapshot.jpeg 511,1308,682,1438,0 669,1170,823,1304,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-09.30.37-13-snapshot.jpeg 1156,844,1352,1057,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-10.43.47-12-snapshot.jpeg 325,848,538,1074,0 2118,1116,2313,1356,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-10.58.15-13-snapshot.jpeg 1661,1589,1826,1764,0 628,1332,806,1497,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-11.32.00-12-snapshot.jpeg 974,1332,1088,1428,0 1160,679,1266,820,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-11.35.13-13-snapshot.jpeg 1060,1363,1263,1548,0 1465,1462,1685,1648,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-11.40.32-12-snapshot.jpeg 1544,1339,1664,1476,0 521,1716,624,1826,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-11.47.07-13-snapshot.jpeg 1094,1181,1335,1400,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.01.30-12-snapshot.jpeg 799,1236,1005,1418,0 291,1191,504,1370,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.03.38-13-snapshot.jpeg 1352,1225,1548,1400,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.06.29-40-snapshot.jpeg 1359,1376,1530,1541,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.06.29-42-snapshot.jpeg 1304,1411,1472,1589,0 71,1191,312,1418,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.14.09-13-snapshot.jpeg 367,1150,559,1345,0 926,1054,1084,1253,0 1424,477,1585,649,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.16.01-12-snapshot.jpeg 1929,1091,2131,1301,0 1740,909,1891,1061,0 940,1081,1122,1291,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.16.43-13-snapshot.jpeg 943,1284,1122,1490,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.20.24-13-snapshot.jpeg 830,1023,1026,1260,0 1263,1102,1448,1321,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.28.20-12-snapshot.jpeg 1379,937,1517,1078,0 1785,1308,1922,1507,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.51.13-13-snapshot.jpeg 691,1421,803,1583,0 1619,1547,1753,1659,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.51.36-12-snapshot.jpeg 631,1363,761,1527,0 1517,1514,1682,1675,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-12.52.13-13-snapshot.jpeg 586,1397,861,1613,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-13.31.26-12-snapshot.jpeg 782,1551,967,1751,0 1338,1654,1554,1864,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-13.33.02-13-snapshot.jpeg 1386,1579,1651,1802,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-13.33.15-12-snapshot.jpeg 1431,1596,1585,1761,0 648,824,813,958,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-13.34.59-13-snapshot.jpeg 809,1497,971,1679,0 1565,1054,1736,1287,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-13.43.04-12-snapshot.jpeg 741,1246,864,1383,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-13.47.11-13-snapshot.jpeg 1149,885,1276,1067,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-13.57.29-12-snapshot.jpeg 745,1442,833,1501,0 870,1555,952,1636,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.00.15-13-snapshot.jpeg 1176,1093,1310,1203,0 1222,907,1309,1014,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.36.40-12-snapshot.jpeg 1002,1400,1177,1565,0 789,992,926,1194,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.41.17-13-snapshot.jpeg 1458,1170,1633,1339,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.43.24-12-snapshot.jpeg 566,1133,751,1308,0 1328,1483,1496,1668,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.48.25-13-snapshot.jpeg 1603,1514,1747,1685,0 727,1023,926,1215,0 511,700,731,909,0 1294,1256,1465,1411,0 222,1167,373,1349,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.49.09-12-snapshot.jpeg 1348,1699,1513,1871,0 991,1438,1156,1576,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.53.08-13-snapshot.jpeg 679,1376,813,1531,0 796,1109,967,1291,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.54.35-12-snapshot.jpeg 851,1184,1012,1339,0 1122,1345,1294,1579,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.56.14-13-snapshot.jpeg 1005,1407,1221,1634,0 1414,1242,1582,1400,0 1050,1037,1228,1242,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-14.59.08-12-snapshot.jpeg 1125,1009,1266,1184,0 875,1098,1053,1236,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.03.23-13-snapshot.jpeg 703,1026,861,1201,0 463,1277,662,1462,0 1537,1479,1706,1634,0 1191,1191,1355,1356,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.05.58-12-snapshot.jpeg 1221,1617,1335,1733,0 895,1411,1070,1538,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.06.48-13-snapshot.jpeg 892,1078,1022,1239,0 1256,1617,1427,1764,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.11.54-12-snapshot.jpeg 885,1030,1057,1215,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.14.54-13-snapshot.jpeg 840,1016,1033,1287,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.21.43-12-snapshot.jpeg 1125,1418,1197,1507,0 1332,1149,1416,1247,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.26.34-13-snapshot.jpeg 1300,1261,1464,1442,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.30.53-12-snapshot.jpeg 1182,1526,1280,1638,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.33.37-13-snapshot.jpeg 987,1093,1164,1310,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.37.28-12-snapshot.jpeg 1182,762,1290,895,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.39.16-13-snapshot.jpeg 980,1250,1157,1467,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.51.03-13-snapshot.jpeg 1231,1453,1416,1669,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.51.58-12-snapshot.jpeg 934,354,1081,581,0 1060,301,1231,518,0 1405,598,1562,790,0 795,336,962,594,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.52.35-13-snapshot.jpeg 941,1128,1074,1275,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.54.13-12-snapshot.jpeg 1114,922,1181,994,0 1256,960,1304,1010,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.15-15.56.52-13-snapshot.jpeg 945,1191,1178,1418,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-06.46.50-13-snapshot.jpeg 952,1034,1119,1320,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-06.52.50-12-snapshot.jpeg 100,1045,317,1222,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-06.58.09-13-snapshot.jpeg 899,950,1314,1254,0 1067,640,1402,947,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.03.26-12-snapshot.jpeg 582,1142,770,1327,0 798,643,997,891,0 1538,1069,1737,1313,0 1430,1711,1587,1875,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.08.19-13-snapshot.jpeg 488,1341,711,1529,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.20.25-12-snapshot.jpeg 1391,1243,1527,1411,0 1157,1069,1304,1229,0 1171,846,1342,1041,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.23.23-13-snapshot.jpeg 1559,1167,1768,1421,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.35.37-12-snapshot.jpeg 613,968,896,1233,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.38.42-13-snapshot.jpeg 973,1208,1321,1645,0 1482,1400,1757,1749,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.42.04-12-snapshot.jpeg 669,1086,931,1334,0 1454,1174,1778,1474,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.42.57-13-snapshot.jpeg 662,1320,1011,1592,0 1168,1571,1450,1850,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.44.40-12-snapshot.jpeg 1014,1399,1236,1710,0 1293,1412,1630,1738,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.47.51-13-snapshot.jpeg 659,776,917,1045,0 1398,1135,1782,1495,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.52.39-12-snapshot.jpeg 850,1338,1255,1749,0 1573,1365,1956,1638,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-07.56.51-13-snapshot.jpeg 847,1198,1189,1512,0 1269,842,1573,1229,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.02.00-12-snapshot.jpeg 1241,769,1573,1086,0 1594,1369,1942,1707,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.05.47-13-snapshot.jpeg 1287,1320,1611,1756,0 721,881,1067,1254,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.22.41-12-snapshot.jpeg 693,1672,896,1836,0 1499,1449,1688,1652,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.23.24-13-snapshot.jpeg 606,1292,833,1491,0 987,870,1168,1107,0 1607,1505,1810,1774,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.24.55-12-snapshot.jpeg 952,525,1109,751,0 1506,713,1698,895,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.26.31-13-snapshot.jpeg 760,1184,1046,1432,0 1430,1181,1628,1386,0 1464,1515,1639,1686,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.32.13-12-snapshot.jpeg 634,1104,788,1257,0 1569,1561,1744,1704,0 1621,1369,1764,1526,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.41.47-13-snapshot.jpeg 1799,1463,1963,1606,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-08.56.58-12-snapshot.jpeg 1053,842,1178,978,0 1475,832,1604,961,0 1618,1303,1747,1463,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.00.42-13-snapshot.jpeg 1942,751,2058,884,0 1744,1575,1862,1711,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.16.48-13-snapshot.jpeg 718,1163,871,1338,0 1280,1208,1409,1365,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.17.06-12-snapshot.jpeg 725,1132,906,1306,0 1314,1271,1430,1372,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.18.23-13-snapshot.jpeg 711,1139,854,1282,0 1252,1205,1405,1345,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.18.55-12-snapshot.jpeg 777,1114,910,1250,0 1273,1208,1426,1334,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.24.44-13-snapshot.jpeg 711,1055,903,1233,0 1294,1198,1454,1348,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.42.27-12-snapshot.jpeg 809,668,1203,1031,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.46.13-13-snapshot.jpeg 1154,713,1552,1051,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.52.40-13-snapshot.jpeg 1116,793,1562,1174,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.55.07-12-snapshot.jpeg 526,636,878,1013,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-09.59.03-13-snapshot.jpeg 1806,1010,2103,1285,0 1754,1522,2096,1857,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.03.27-12-snapshot.jpeg 753,1156,1004,1372,0 718,1296,1053,1529,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.04.26-13-snapshot.jpeg 958,1125,1290,1471,0 1290,1236,1580,1488,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.09.16-13-snapshot.jpeg 997,947,1297,1240,0 1224,1079,1524,1372,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.14.11-13-snapshot.jpeg 1321,1306,1562,1599,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.17.07-12-snapshot.jpeg 1514,1090,1734,1292,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.20.20-13-snapshot.jpeg 1733,1121,2078,1432,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.37.13-12-snapshot.jpeg 1294,1111,1527,1327,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.41.49-13-snapshot.jpeg 1063,1104,1287,1313,0 774,1376,1007,1578,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.42.00-12-snapshot.jpeg 746,1331,913,1519,0 1102,971,1314,1156,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.45.28-13-snapshot.jpeg 1049,1519,1234,1735,0 1175,1261,1378,1435,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.52.42-12-snapshot.jpeg 1395,1393,1628,1631,0 1095,1024,1297,1236,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-10.58.22-13-snapshot.jpeg 1231,1177,1437,1414,0 1691,1397,1834,1536,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.16.29-13-snapshot.jpeg 941,905,1178,1118,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.35.44-13-snapshot.jpeg 885,1261,1105,1498,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.36.40-12-snapshot.jpeg 885,1006,1088,1278,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.38.31-13-snapshot.jpeg 945,1369,1175,1624,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.42.02-13-snapshot.jpeg 1506,1334,1684,1519,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.46.53-13-snapshot.jpeg 861,1254,1088,1474,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.48.43-12-snapshot.jpeg 1461,1215,1601,1386,0 1307,1522,1447,1665,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.50.30-13-snapshot.jpeg 1339,825,1513,1045,0 990,1624,1199,1850,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.55.44-13-snapshot.jpeg 700,1118,889,1341,0 1740,1017,1918,1205,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.56.48-12-snapshot.jpeg 442,1010,652,1191,0 1398,1156,1611,1338,0 1011,298,1203,525,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-11.57.53-13-snapshot.jpeg 791,1352,1000,1554,0 1395,1167,1573,1372,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.02.02-13-snapshot.jpeg 1137,1132,1307,1310,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.06.06-12-snapshot.jpeg 1321,1460,1545,1746,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.09.57-13-snapshot.jpeg 1294,1097,1534,1317,0 1238,1526,1461,1721,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.16.12-13-snapshot.jpeg 1520,1160,1684,1404,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.17.34-12-snapshot.jpeg 1367,1418,1548,1603,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.22.18-13-snapshot.jpeg 1049,1202,1217,1393,0 1342,1467,1555,1652,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.27.17-12-snapshot.jpeg 1098,1522,1311,1700,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.31.31-13-snapshot.jpeg 1252,1467,1450,1676,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.34.15-13-snapshot.jpeg 1196,657,1402,867,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.38.35-13-snapshot.jpeg 1070,1303,1248,1505,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.44.46-13-snapshot.jpeg 969,863,1283,1118,0 1367,361,1667,731,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.52.04-13-snapshot.jpeg 1517,1285,1862,1659,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.55.38-12-snapshot.jpeg 310,1086,582,1310,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-12.58.07-13-snapshot.jpeg 1150,1470,1437,1725,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-13.00.23-12-snapshot.jpeg 742,1690,997,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.16-13.04.10-13-snapshot.jpeg 310,758,2511,1683,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.01.10-12-snapshot.jpeg 1395,1418,1541,1564,0 802,1215,1021,1393,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.04.17-13-snapshot.jpeg 1126,1257,1280,1421,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.10.34-13-snapshot.jpeg 976,1132,1234,1341,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.16.20-12-snapshot.jpeg 1269,853,1423,1010,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.17.50-13-snapshot.jpeg 906,1160,1112,1365,0 1360,1386,1506,1561,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.21.24-12-snapshot.jpeg 1171,1655,1395,1850,0 530,957,798,1170,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.27.23-13-snapshot.jpeg 1447,1215,1702,1421,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.41.43-12-snapshot.jpeg 945,1578,1245,1836,0 1356,1508,1604,1728,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.48.54-13-snapshot.jpeg 948,1303,1231,1575,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-07.56.10-12-snapshot.jpeg 1102,608,1304,870,0 889,1446,1053,1645,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-08.01.33-13-snapshot.jpeg 819,1205,1046,1376,0 223,532,446,762,0 52,399,212,563,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-08.11.53-12-snapshot.jpeg 756,912,966,1135,0 1405,1128,1646,1313,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-08.17.09-13-snapshot.jpeg 777,1327,1021,1735,0 1095,1208,1335,1446,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-08.23.51-12-snapshot.jpeg 1461,1425,1695,1624,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-08.25.35-13-snapshot.jpeg 920,1261,1175,1515,0 1060,127,1437,563,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-08.27.40-12-snapshot.jpeg 195,1289,495,1519,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-08.31.56-13-snapshot.jpeg 1604,874,1918,1240,0 1942,535,2242,874,0 2281,853,2577,1097,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.02.53-12-snapshot.jpeg 1032,1421,1262,1648,0 1520,1362,1744,1624,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.03.37-13-snapshot.jpeg 1841,1010,2221,1460,0 550,884,1594,1428,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.05.52-12-snapshot.jpeg 1150,891,1450,1188,0 1035,1418,1416,1700,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.11.07-13-snapshot.jpeg 843,1208,1098,1599,0 1241,982,1461,1331,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.20.14-13-snapshot.jpeg 1311,1285,1677,1641,0 1259,731,1478,1076,0 924,567,1252,881,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.27.38-12-snapshot.jpeg 1649,1732,1785,1847,0 1527,1721,1635,1840,0 1353,1728,1482,1840,0 2037,1686,2169,1805,0 1133,1840,1245,1945,0 1102,1045,1217,1184,0 1168,1093,1287,1202,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.31.01-13-snapshot.jpeg 1189,1393,1360,1554,0 1067,1181,1224,1352,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.39.55-13-snapshot.jpeg 1053,1345,1150,1449,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.41.04-12-snapshot.jpeg 627,1292,875,1519,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.41.27-13-snapshot.jpeg 617,1149,945,1484,0 980,881,1283,1208,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.44.58-12-snapshot.jpeg 910,1376,1053,1557,0 603,1170,837,1348,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.49.51-13-snapshot.jpeg 728,1212,878,1358,0 1262,1320,1440,1495,0 1635,1383,1803,1550,0 1147,1561,1273,1767,0 1091,1146,1241,1348,0 645,1791,826,1945,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.51.06-12-snapshot.jpeg 707,1222,809,1324,0 627,1299,763,1404,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.54.16-13-snapshot.jpeg 840,1303,987,1460,0 1391,1435,1548,1599,0 1192,1114,1363,1345,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-09.56.52-12-snapshot.jpeg 1150,1017,1314,1170,0 631,1195,798,1372,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.00.46-13-snapshot.jpeg 1168,1355,1311,1495,0 1053,1208,1206,1310,0 603,1226,805,1390,0 634,1348,823,1505,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.04.53-13-snapshot.jpeg 1189,1421,1430,1631,0 1126,1107,1353,1341,0 976,1540,1227,1704,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.06.59-12-snapshot.jpeg 983,1376,1196,1589,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.08.42-13-snapshot.jpeg 871,1327,1091,1547,0 983,1038,1112,1139,0 1053,1093,1213,1243,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.16.46-12-snapshot.jpeg 1206,922,1388,1100,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.19.02-13-snapshot.jpeg 795,1519,1007,1735,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.23.21-12-snapshot.jpeg 854,1495,1014,1648,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.25.53-13-snapshot.jpeg 1049,1529,1269,1725,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.31.48-13-snapshot.jpeg 1105,867,1307,1031,0 1405,1160,1611,1352,0 1684,811,1859,1024,0 1820,828,1984,1083,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.35.10-12-snapshot.jpeg 1803,1058,1918,1226,0 2019,1229,2208,1449,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-10.37.46-13-snapshot.jpeg 1262,950,1457,1167,0 969,507,1178,755,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.06.54-12-snapshot.jpeg 1363,629,1464,741,0 1391,525,1475,615,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.10.12-13-snapshot.jpeg 1496,1358,1705,1641,0 1447,1645,1688,1913,0 1109,689,1325,961,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.16.52-12-snapshot.jpeg 491,654,721,881,0 662,936,896,1167,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.17.40-13-snapshot.jpeg 571,849,812,1174,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.43.56-12-snapshot.jpeg 1213,1202,1353,1355,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.49.33-13-snapshot.jpeg 1028,1282,1217,1505,0 90,1669,306,1850,0 1276,731,1395,891,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.56.13-12-snapshot.jpeg 1070,1212,1227,1320,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-11.57.15-13-snapshot.jpeg 1203,1163,1374,1355,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.01.58-12-snapshot.jpeg 1342,1303,1430,1435,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.06.05-13-snapshot.jpeg 997,1222,1199,1428,0 1178,1411,1363,1599,0 1112,710,1280,933,0 1294,765,1499,950,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.11.34-12-snapshot.jpeg 882,1638,1028,1760,0 896,1439,1035,1578,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.15.12-13-snapshot.jpeg 1294,1428,1712,1739,0 1552,1250,2005,1603,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.22.44-12-snapshot.jpeg 523,1024,718,1174,0 1053,1390,1280,1547,0 1478,1341,1681,1540,0 2089,1010,2256,1153,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.26.01-13-snapshot.jpeg 1046,1334,1206,1498,0 1346,1271,1548,1470,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.30.10-12-snapshot.jpeg 1314,1153,1457,1310,0 1646,1355,1799,1498,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.31.14-13-snapshot.jpeg 913,1229,1091,1425,0 1109,1233,1318,1400,0 1150,870,1314,999,0 1157,975,1381,1118,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.33.36-12-snapshot.jpeg 1552,1058,1660,1167,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.36.33-13-snapshot.jpeg 1018,1243,1175,1404,0 1234,1167,1402,1303,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.50.29-13-snapshot.jpeg 917,1488,1088,1672,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.54.06-13-snapshot.jpeg 1123,1442,1321,1672,0 962,1069,1109,1271,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-12.57.30-12-snapshot.jpeg 1255,1055,1342,1163,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.00.08-13-snapshot.jpeg 1283,1386,1475,1613,0 1074,1118,1280,1306,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.03.30-12-snapshot.jpeg 1489,1327,1601,1446,0 1283,978,1391,1083,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.06.05-13-snapshot.jpeg 1084,1369,1245,1533,0 1356,1153,1538,1306,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.11.58-12-snapshot.jpeg 721,1352,1088,1665,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.19.20-13-snapshot.jpeg 1381,1526,1660,1767,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.30.51-12-snapshot.jpeg 1004,1432,1430,1795,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.38.54-13-snapshot.jpeg 917,992,1294,1275,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.47.54-12-snapshot.jpeg 1360,1282,1594,1449,0 875,1188,1098,1411,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.53.08-13-snapshot.jpeg 756,1076,973,1296,0 634,1774,812,1931,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-13.57.11-12-snapshot.jpeg 1412,793,1524,912,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.02.00-13-snapshot.jpeg 871,1372,1074,1557,0 1077,1700,1252,1840,0 1140,936,1311,1111,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.05.53-12-snapshot.jpeg 1021,1086,1203,1289,0 1342,1467,1503,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.10.02-13-snapshot.jpeg 1252,1324,1444,1533,0 955,1564,1171,1756,0 767,1536,980,1735,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.23.47-12-snapshot.jpeg 1346,1379,1541,1603,0 819,1111,1042,1358,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.26.47-13-snapshot.jpeg 1468,1306,1709,1547,0 969,1519,1164,1704,0 1583,1079,1810,1289,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.40.25-12-snapshot.jpeg 868,1313,1126,1540,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.44.31-13-snapshot.jpeg 610,933,861,1156,0 676,793,987,1079,0 1070,515,1332,850,0 1510,1135,1782,1411,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.52.18-12-snapshot.jpeg 1485,1289,1607,1414,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.55.08-13-snapshot.jpeg 1014,1257,1192,1495,0 1217,1107,1416,1278,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.56.11-12-snapshot.jpeg 847,1442,1039,1606,0 1088,1453,1276,1704,0 1388,1481,1590,1648,0 1095,1128,1321,1310,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-14.57.14-13-snapshot.jpeg 910,1352,1133,1575,0 1164,1376,1363,1617,0 1423,1135,1590,1278,0 1021,1097,1248,1313,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.07.52-12-snapshot.jpeg 837,1376,966,1502,0 1192,1453,1349,1568,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.10.48-13-snapshot.jpeg 878,1446,1109,1659,0 1632,1508,1806,1707,0 830,1125,987,1317,0 1307,1111,1513,1313,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.17.09-13-snapshot.jpeg 969,1327,1217,1568,0 1353,1460,1545,1620,0 1506,1324,1716,1529,0 1238,1086,1437,1282,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.20.38-12-snapshot.jpeg 1461,1491,1604,1610,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.23.27-13-snapshot.jpeg 924,1097,1091,1289,0 170,947,373,1146,0 69,1048,278,1254,0 1468,1215,1604,1386,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.32.38-12-snapshot.jpeg 1346,451,1482,598,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.37.15-13-snapshot.jpeg 749,1107,1025,1320,0 1259,1153,1450,1358,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.44.09-13-snapshot.jpeg 1018,1118,1433,1379,0 303,1320,756,1571,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.49.04-12-snapshot.jpeg 289,570,690,968,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.51.49-13-snapshot.jpeg 993,1365,1419,1798,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-15.58.19-13-snapshot.jpeg 687,999,1206,1453,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-16.13.58-12-snapshot.jpeg 879,1334,1158,1630,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-16.14.43-13-snapshot.jpeg 1234,1202,1569,1582,0
+C:\Users\NhanD\Documents\ICP_Project\AR10-001\snapshots\2019.03.18-16.15.07-12-snapshot.jpeg 1196,1397,1444,1617,0 320,1578,610,1763,0

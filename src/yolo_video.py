@@ -14,7 +14,7 @@ def detect_img(yolo):
             print('Open Error! Try again!')
             continue
         else:
-            r_image = yolo.detect_image(image)
+            r_image = yolo.annotate_image(image, *yolo.detect_image(image))
             plt.figure()
             plt.imshow(np.asarray(r_image))
             plt.show()
