@@ -8,10 +8,16 @@ from timeit import default_timer as timer
 
 import numpy as np
 import cv2
+
 from keras import backend as K
 from keras.models import load_model
 from keras.layers import Input
 from PIL import Image, ImageFont, ImageDraw
+
+import tensorflow as tf
+from tensorflow.python.framework import graph_io
+from tensorflow.keras.models import load_model
+import tensorrt as trt
 
 from src.yolo3.model import yolo_eval, yolo_body, tiny_yolo_body
 from src.yolo3.utils import letterbox_image
@@ -58,6 +64,30 @@ class YOLO(object):
             anchors = f.readline()
         anchors = [float(x) for x in anchors.split(',')]
         return np.array(anchors).reshape(-1, 2)
+
+    def generate_trt_inference_graph(self, save_pb_dir='.', save_pb_name='frozen_model.pb',
+                     save_pb_as_text=False):
+
+        graph = self.sess.graph
+        session = self.sess
+        output = [out.op.name for out in [self.boxes, self.scores, self.classes]]
+        with graph.as_default():
+            graphdef_inf = tf.graph_util.remove_training_nodes(graph.as_graph_def())
+            graphdef_frozen = tf.graph_util.convert_variables_to_constants(session, graphdef_inf,
+                                                                           output)
+            graph_io.write_graph(graphdef_frozen, save_pb_dir, save_pb_name,
+                                 as_text=save_pb_as_text)
+
+        trt_graph = trt.create_inference_graph(
+                input_graph_def=graphdef_frozen,
+                outputs=output,
+                max_batch_size=1,
+                max_workspace_size_bytes=1 << 25,
+                precision_mode='FP16',
+                minimum_segment_size=50
+                )
+
+        return trt_graph
 
     def generate(self):
         model_path = os.path.expanduser(self.model_path)
@@ -214,11 +244,13 @@ class YOLO(object):
                         bb2 = (left, top, right, bottom)
                         iou = _compute_iou(bb1, bb2)
 
-                        if iou > iou_thresh:
+                        if iou > iou_thresh: # True Positive
                             if class_ in matches:
                                 matches[class_].append(iou)
                             else:
                                 matches[class_] = [iou]
+                        else: # False Positive
+                            pass # Every image
 
             #  calculate the precision for each class
             for k, v in matches.items():
