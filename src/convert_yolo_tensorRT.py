@@ -1,6 +1,5 @@
 import argparse
 import os
-from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2 as Net
 from src.yolo import YOLO
 import tensorflow as tf
 from tensorflow.python.framework import graph_io
@@ -36,23 +35,16 @@ def _main():
     parser.add_argument(
             '--save', type=str,
             help='path to save frozen model'
-            )
+    )
 
     FLAGS = parser.parse_args()
 
     save_pb_dir, model_fname = os.path.split(FLAGS.save)
 
     model = YOLO(**vars(FLAGS))
-    frozen_graph = model.get_frozen_graph(save_pb_dir, model_fname)
 
-    trt_graph = trt.create_inference_graph(
-            input_graph_def=frozen_graph,
-            outputs=output_names,
-            max_batch_size=1,
-            max_workspace_size_bytes=1 << 25,
-            precision_mode='FP16',
-            minimum_segment_size=50
-            )
+    trt_graph = model.generate_trt_inference_graph(save_pb_dir, model_fname)
 
 
-
+if __name__ == '__main__':
+    _main()

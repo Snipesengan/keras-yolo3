@@ -17,7 +17,7 @@ from PIL import Image, ImageFont, ImageDraw
 import tensorflow as tf
 from tensorflow.python.framework import graph_io
 from tensorflow.keras.models import load_model
-import tensorrt as trt
+from tensorflow.contrib import tensorrt as trt
 
 from src.yolo3.model import yolo_eval, yolo_body, tiny_yolo_body
 from src.yolo3.utils import letterbox_image
@@ -68,16 +68,24 @@ class YOLO(object):
     def generate_trt_inference_graph(self, save_pb_dir='.', save_pb_name='frozen_model.pb',
                      save_pb_as_text=False):
 
+        # Generate an TensorRT inferrence graph
+        
         graph = self.sess.graph
         session = self.sess
-        output = [out.op.name for out in [self.boxes, self.scores, self.classes]]
+        output = [out.op.name for out in self.yolo_model.output]
+        print(f'Model output {output}')
         with graph.as_default():
             graphdef_inf = tf.graph_util.remove_training_nodes(graph.as_graph_def())
+            print('Freezing session...')
             graphdef_frozen = tf.graph_util.convert_variables_to_constants(session, graphdef_inf,
                                                                            output)
+            
+            print('Saving graph...')
             graph_io.write_graph(graphdef_frozen, save_pb_dir, save_pb_name,
                                  as_text=save_pb_as_text)
+            print(f'Graph saved to: {os.path.join(save_pb_dir, save_pb_name)}')
 
+        print('Creating inference graph...')
         trt_graph = trt.create_inference_graph(
                 input_graph_def=graphdef_frozen,
                 outputs=output,
@@ -86,6 +94,8 @@ class YOLO(object):
                 precision_mode='FP16',
                 minimum_segment_size=50
                 )
+
+        print('Succesfully created inference graph')
 
         return trt_graph
 
@@ -100,6 +110,7 @@ class YOLO(object):
         is_tiny_version = num_anchors == 6  # default setting
         try:
             self.yolo_model = load_model(model_path, compile=False)
+            print('Using YOLOv3')
         except:
             self.yolo_model = tiny_yolo_body(Input(shape=(None, None, 3)),
                                              num_anchors // 2, num_classes) \
@@ -107,6 +118,8 @@ class YOLO(object):
                                                   num_anchors // 3, num_classes)
             self.yolo_model.load_weights(
                 self.model_path)  # make sure model, anchors and classes match
+            
+            print('Using tiny YOLOv3')
         else:
             assert self.yolo_model.layers[-1].output_shape[-1] == \
                    num_anchors / len(self.yolo_model.output) * (
@@ -310,10 +323,11 @@ def detect_video(yolo, video_path, output_path=""):
         cv2.putText(result, text=fps, org=(3, 15),
                     fontFace=cv2.FONT_HERSHEY_SIMPLEX,
                     fontScale=0.50, color=(255, 0, 0), thickness=2)
-        cv2.namedWindow("result", cv2.WINDOW_NORMAL)
-        cv2.imshow("result", result)
-        if isOutput:
-            out.write(result)
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
+        print(f'FPS: {fps}')
+ #       cv2.namedWindow("result", cv2.WINDOW_NORMAL)
+ #       cv2.imshow("result", result)
+ #       if isOutput:
+ #           out.write(result)
+ #       if cv2.waitKey(1) & 0xFF == ord('q'):
+ #           break
     yolo.close_session()
