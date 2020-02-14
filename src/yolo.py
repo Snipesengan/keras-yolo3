@@ -4,6 +4,7 @@ Class definition of YOLO_v3 style detection model on image and video
 """
 
 import colorsys
+import sys
 from timeit import default_timer as timer
 
 import numpy as np
@@ -17,7 +18,6 @@ from PIL import Image, ImageFont, ImageDraw
 import tensorflow as tf
 from tensorflow.python.framework import graph_io
 from tensorflow.keras.models import load_model
-from tensorflow.contrib import tensorrt as trt
 
 from src.yolo3.model import yolo_eval, yolo_body, tiny_yolo_body
 from src.yolo3.utils import letterbox_image
@@ -46,10 +46,14 @@ class YOLO(object):
     def __init__(self, **kwargs):
         self.__dict__.update(self._defaults)  # set up default values
         self.__dict__.update(kwargs)  # and update with user overrides
+        self.yolo_model = None
         self.class_names = self._get_class()
         self.anchors = self._get_anchors()
         self.sess = K.get_session()
-        self.boxes, self.scores, self.classes = self.generate()
+        if os.path.expanduser(self.model_path).endswith('h5'):
+            self.boxes, self.scores, self.classes = self.generate()
+        elif os.path.expanduser(self.model_path).endswith('pb'):
+            self.boxes, self.scores, self.classes = self.load_frozen_model()
 
     def _get_class(self):
         classes_path = os.path.expanduser(self.classes_path)
@@ -65,19 +69,19 @@ class YOLO(object):
         anchors = [float(x) for x in anchors.split(',')]
         return np.array(anchors).reshape(-1, 2)
 
-    def generate_trt_inference_graph(self, save_pb_dir='.', save_pb_name='frozen_model.pb',
-                     save_pb_as_text=False):
+    def save_frozen_model(self, save_pb_dir='.', save_pb_name='frozen_model.pb',
+                          save_pb_as_text=False):
 
-        # Generate an TensorRT inferrence graph
-        
-        graph = self.sess.graph
+        assert save_pb_name.endswith('pb'), 'Name must have .pb extension'
+
         session = self.sess
-        output = [out.op.name for out in self.yolo_model.output]
+        graph = session.graph
+        output = ['boxes', 'scores', 'classes']
         print(f'Model output {output}')
         with graph.as_default():
-            graphdef_inf = tf.graph_util.remove_training_nodes(graph.as_graph_def())
             print('Freezing session...')
-            graphdef_frozen = tf.graph_util.convert_variables_to_constants(session, graphdef_inf,
+            graphdef_frozen = tf.graph_util.convert_variables_to_constants(session,
+                                                                           session.graph_def,
                                                                            output)
             
             print('Saving graph...')
@@ -85,19 +89,38 @@ class YOLO(object):
                                  as_text=save_pb_as_text)
             print(f'Graph saved to: {os.path.join(save_pb_dir, save_pb_name)}')
 
-        print('Creating inference graph...')
-        trt_graph = trt.create_inference_graph(
-                input_graph_def=graphdef_frozen,
-                outputs=output,
-                max_batch_size=1,
-                max_workspace_size_bytes=1 << 25,
-                precision_mode='FP16',
-                minimum_segment_size=50
-                )
+    def load_frozen_model(self):
+        model_path = os.path.expanduser(self.model_path)
+        assert model_path.endswith(
+            '.pb'), 'Frozen tensorflow model must be a .pb file.'
 
-        print('Succesfully created inference graph')
+        with tf.gfile.GFile(model_path, 'rb') as f:
+            graph_def = tf.GraphDef()
+            graph_def.ParseFromString(f.read())
 
-        return trt_graph
+        # Generate colors for drawing bounding boxes.
+        hsv_tuples = [(x / len(self.class_names), 1., 1.)
+                      for x in range(len(self.class_names))]
+        self.colors = list(map(lambda x: colorsys.hsv_to_rgb(*x), hsv_tuples))
+        self.colors = list(
+                map(lambda x: (
+                        int(x[0] * 255), int(x[1] * 255), int(x[2] * 255)),
+                    self.colors))
+        np.random.seed(10101)  # Fixed seed for consistent colors across runs.
+        np.random.shuffle(
+                self.colors)  # Shuffle colors to decorrelate adjacent classes.
+        np.random.seed(None)  # Reset seed to default.
+
+        tf.graph_util.import_graph_def(graph_def)
+        self.input_name = self.sess.graph_def.node[0].name + ':0'
+        self.input_image_shape = tf.get_default_graph().get_tensor_by_name(
+                'import/image_shape:0')
+
+        boxes_ = tf.get_default_graph().get_tensor_by_name("import/boxes:0")
+        scores_ = tf.get_default_graph().get_tensor_by_name("import/scores:0")
+        classes_ = tf.get_default_graph().get_tensor_by_name("import/classes:0")
+
+        return boxes_, scores_, classes_
 
     def generate(self):
         model_path = os.path.expanduser(self.model_path)
@@ -118,7 +141,7 @@ class YOLO(object):
                                                   num_anchors // 3, num_classes)
             self.yolo_model.load_weights(
                 self.model_path)  # make sure model, anchors and classes match
-            
+
             print('Using tiny YOLOv3')
         else:
             assert self.yolo_model.layers[-1].output_shape[-1] == \
@@ -142,16 +165,20 @@ class YOLO(object):
         np.random.seed(None)  # Reset seed to default.
 
         # Generate output tensor targets for filtered bounding boxes.
-        self.input_image_shape = K.placeholder(shape=(2,))
+        self.input_name = self.yolo_model.input
+        self.input_image_shape = K.placeholder(shape=(2,), name='image_shape')
+        print(self.input_image_shape)
         if self.gpu_num >= 2:
             self.yolo_model = multi_gpu_model(self.yolo_model,
                                               gpus=self.gpu_num)
+
         boxes, scores, classes = yolo_eval(self.yolo_model.output,
                                            self.anchors,
                                            len(self.class_names),
                                            self.input_image_shape,
                                            score_threshold=self.score,
                                            iou_threshold=self.iou)
+
         return boxes, scores, classes
 
     def detect_image(self, image):
@@ -169,14 +196,13 @@ class YOLO(object):
             boxed_image = letterbox_image(image, new_image_size)
         image_data = np.array(boxed_image, dtype='float32')
 
-        print(image_data.shape)
         image_data /= 255.
         image_data = np.expand_dims(image_data, 0)  # Add batch dimension.
 
         out_boxes, out_scores, out_classes = self.sess.run(
                 [self.boxes, self.scores, self.classes],
                 feed_dict={
-                        self.yolo_model.input: image_data,
+                        self.input_name: image_data,
                         self.input_image_shape: [image.size[1], image.size[0]],
                         K.learning_phase(): 0
                 })
@@ -197,7 +223,7 @@ class YOLO(object):
             box = out_boxes[i]
             score = out_scores[i]
 
-            label = '{} {:.2f}'.format(predicted_class, score)
+            #label = '{} {:.2f}'.format(predicted_class, score)
             label = f'{predicted_class}'
             draw = ImageDraw.Draw(image)
             label_size = draw.textsize(label, font)
@@ -324,10 +350,11 @@ def detect_video(yolo, video_path, output_path=""):
                     fontFace=cv2.FONT_HERSHEY_SIMPLEX,
                     fontScale=0.50, color=(255, 0, 0), thickness=2)
         print(f'FPS: {fps}')
- #       cv2.namedWindow("result", cv2.WINDOW_NORMAL)
- #       cv2.imshow("result", result)
- #       if isOutput:
- #           out.write(result)
- #       if cv2.waitKey(1) & 0xFF == ord('q'):
- #           break
+        cv2.namedWindow("result", cv2.WINDOW_NORMAL)
+        cv2.imshow("result", result)
+        if isOutput:
+            out.write(result)
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
+
     yolo.close_session()

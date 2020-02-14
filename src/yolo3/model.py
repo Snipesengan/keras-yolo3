@@ -245,6 +245,11 @@ def yolo_eval(yolo_outputs,
     scores_ = K.concatenate(scores_, axis=0)
     classes_ = K.concatenate(classes_, axis=0)
 
+    # Apply identity to tensor so they can be identified by name
+    boxes_ = K.identity(boxes_, name='boxes')
+    scores_ = K.identity(scores_, name='scores')
+    classes_ = K.identity(classes_, name='classes')
+
     return boxes_, scores_, classes_
 
 

@@ -4,7 +4,6 @@ from src.yolo import YOLO
 import tensorflow as tf
 from tensorflow.python.framework import graph_io
 from tensorflow.keras.models import load_model
-import tensorrt as trt
 
 def _main():
     # class YOLO defines the default value, so suppress any default here
@@ -13,17 +12,17 @@ def _main():
     Command line options
     '''
     parser.add_argument(
-        '--model', type=str,
+        '--model_path', type=str,
         help='path to model weight file, default ' + YOLO.get_defaults("model_path")
     )
 
     parser.add_argument(
-        '--anchors', type=str,
+        '--anchors_path', type=str,
         help='path to anchor definitions, default ' + YOLO.get_defaults("anchors_path")
     )
 
     parser.add_argument(
-        '--classes', type=str,
+        '--classes_path', type=str,
         help='path to class definitions, default ' + YOLO.get_defaults("classes_path")
     )
 
@@ -43,7 +42,7 @@ def _main():
 
     model = YOLO(**vars(FLAGS))
 
-    trt_graph = model.generate_trt_inference_graph(save_pb_dir, model_fname)
+    model.save_frozen_model(save_pb_dir, model_fname, save_pb_as_text=False)
 
 
 if __name__ == '__main__':
